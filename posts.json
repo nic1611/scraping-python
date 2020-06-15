@@ -1,0 +1,102 @@
+[
+   {
+      "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/07/podcast2.jpg",
+      "link": [
+         "https://www.abapzombie.com/podcast/2019/04/09/011-brinca-nao-senao-voce-vai-ver-com-meu-balanco-voce-vai-gostar/"
+      ],
+      "title": [
+         "#011 – Brinca não senão você vai ver, com meu balanço você vai gostar"
+      ],
+      "description": "Sim, nós voltamos! Depois de um longo verão, o nosso podcast anual periódico está de volta! E é claro que o tema não poderia ser … "
+   },
+   {
+      "thumb": "https://www.abapzombie.com/wp-content/uploads/2018/07/boss.png",
+      "link": [
+         "https://www.abapzombie.com/podcast/2018/07/25/010-assim-como-o-nosso-chefe-esse-episodio-e-10/"
+      ],
+      "title": [
+         "#010 – Assim como o nosso chefe, esse episódio é 10"
+      ],
+      "description": "Nosso ciclo de publicação está mais demorado do que o intervalo do cometa Halley, MAS SIM, caros amigos zumbizóides, CHEGOU MAIS UM EPISÓDIO DO THE … "
+   },
+   {
+      "thumb": "https://www.abapzombie.com/wp-content/uploads/2018/03/xsa.jpg",
+      "link": [
+         "https://www.abapzombie.com/podcast/2018/03/08/009-saindo-um-xsa-com-baas-bastante-node-molho-mqtt-e-fritas-sitsp/"
+      ],
+      "title": [
+         "#009 – Saindo um XSA com BaaS, bastante Node, molho MQTT e fritas #SITSP"
+      ],
+      "description": "Passou o Natal, passou o Carnaval, Páscoa chegando, e nada de episódio novo. É NADA! TAMO DE VOLTA! Depois de mais um longo hiato, a … "
+   },
+   {
+      "thumb": "https://www.abapzombie.com/wp-content/uploads/2018/01/superpapo.jpg",
+      "link": [
+         "https://www.abapzombie.com/dicas-abap/2018/01/03/chat-zumbizade-com-abap-channels-e-ui5/"
+      ],
+      "title": [
+         "Chat Zumbizade™ com ABAP Channels e UI5"
+      ],
+      "description": "Fala zumbizada! Saindo da tumba após eras de profundo adormecimento, cá estou eu de volta à linha de frente zumbi pra despejar um pouco mais … "
+   },
+   {
+      "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/07/WhatsApp-Image-2017-06-28-at-19.00.58.jpeg",
+      "link": [
+         "https://www.abapzombie.com/podcast/2017/07/05/008-busca-eterna-de-uma-vaga-sem-lembrancas/"
+      ],
+      "title": [
+         "#008 – Busca eterna de uma vaga sem lembranças"
+      ],
+      "description": "Perdeu seu emprego recentemente? Já se inscreveu em trocentos grupos de Skype, e-mail, Facebook, Whatsapp, LinkedIn, e nada funciona? Vagas fantasmas para alocações de 30 … "
+   },
+   {
+      "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/05/tunnel-698518_1920.png",
+      "link": [
+         "https://www.abapzombie.com/mundo-sap/2017/05/31/exite-vida-apos-o-abap/"
+      ],
+      "title": [
+         "Existe vida após o ABAP?"
+      ],
+      "description": "Mais de mil setecentos e noventa e três anos se passaram desde a última vez que escrevi pro ABAPZombie. O motivo? Não trabalho com SAP … "
+   },
+   {
+      "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+      "link": [
+         "https://www.abapzombie.com/off-topic/2017/05/03/o-abapzombie-ta-todo-bugado/"
+      ],
+      "title": [
+         "O ABAPZOMBIE TÁ TODO BUGADO!!!"
+      ],
+      "description": "Entrou em uma parte do site e ele parece completamente bugado, com as coisas fora do lugar, sem estilos, sem identação, sem pretty printer? Pois … "
+   },
+   {
+      "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/04/Post-do-Amiguinho-Zombie.jpeg",
+      "link": [
+         "https://www.abapzombie.com/amiguinho-zombie/2017/04/13/chamando-um-servico-xsjs-por-uma-aplicacao-sap-ui5/"
+      ],
+      "title": [
+         "Chamando um serviço XSJS por uma aplicação SAP UI5"
+      ],
+      "description": "Antes de mais nada, vamos começar explicando um pouco sobre o que consiste um arquivo “xsjs” e o que é uma aplicação “SAP UI5”. Um … "
+   },
+   {
+      "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+      "link": [
+         "https://www.abapzombie.com/dicas-abap/2017/03/20/sap-gateway-get_stream-marotao-que-cospe-uma-danfe/"
+      ],
+      "title": [
+         "SAP Gateway – GET_STREAM marotão que cospe uma DANFE"
+      ],
+      "description": "FALA, BANDO DE MORTO VIVO! Todo mundo morto aí? Ou vivo? Quem sabe, faz tanto tempo que eu não escrevo aqui… Eis um postzinho de dica … "
+   },
+   {
+      "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/01/WhatsApp-Image-2017-01-11-at-20.13.00.jpeg",
+      "link": [
+         "https://www.abapzombie.com/podcast/2017/01/18/007-40-horas-nao-e-o-bastante/"
+      ],
+      "title": [
+         "#007 – 40 horas não é o bastante"
+      ],
+      "description": "Lembra quando nós dissemos que iríamos lançar um novo The Walking Dev todo mês? Pois é, acho que nós erramos na estimativa! (foi mal) Aproveitando … "
+   }
+]
