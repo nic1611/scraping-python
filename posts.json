@@ -1,102 +1,2102 @@
 [
-   {
-      "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/07/podcast2.jpg",
-      "link": [
-         "https://www.abapzombie.com/podcast/2019/04/09/011-brinca-nao-senao-voce-vai-ver-com-meu-balanco-voce-vai-gostar/"
-      ],
-      "title": [
-         "#011 – Brinca não senão você vai ver, com meu balanço você vai gostar"
-      ],
-      "description": "Sim, nós voltamos! Depois de um longo verão, o nosso podcast anual periódico está de volta! E é claro que o tema não poderia ser … "
-   },
-   {
-      "thumb": "https://www.abapzombie.com/wp-content/uploads/2018/07/boss.png",
-      "link": [
-         "https://www.abapzombie.com/podcast/2018/07/25/010-assim-como-o-nosso-chefe-esse-episodio-e-10/"
-      ],
-      "title": [
-         "#010 – Assim como o nosso chefe, esse episódio é 10"
-      ],
-      "description": "Nosso ciclo de publicação está mais demorado do que o intervalo do cometa Halley, MAS SIM, caros amigos zumbizóides, CHEGOU MAIS UM EPISÓDIO DO THE … "
-   },
-   {
-      "thumb": "https://www.abapzombie.com/wp-content/uploads/2018/03/xsa.jpg",
-      "link": [
-         "https://www.abapzombie.com/podcast/2018/03/08/009-saindo-um-xsa-com-baas-bastante-node-molho-mqtt-e-fritas-sitsp/"
-      ],
-      "title": [
-         "#009 – Saindo um XSA com BaaS, bastante Node, molho MQTT e fritas #SITSP"
-      ],
-      "description": "Passou o Natal, passou o Carnaval, Páscoa chegando, e nada de episódio novo. É NADA! TAMO DE VOLTA! Depois de mais um longo hiato, a … "
-   },
-   {
-      "thumb": "https://www.abapzombie.com/wp-content/uploads/2018/01/superpapo.jpg",
-      "link": [
-         "https://www.abapzombie.com/dicas-abap/2018/01/03/chat-zumbizade-com-abap-channels-e-ui5/"
-      ],
-      "title": [
-         "Chat Zumbizade™ com ABAP Channels e UI5"
-      ],
-      "description": "Fala zumbizada! Saindo da tumba após eras de profundo adormecimento, cá estou eu de volta à linha de frente zumbi pra despejar um pouco mais … "
-   },
-   {
-      "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/07/WhatsApp-Image-2017-06-28-at-19.00.58.jpeg",
-      "link": [
-         "https://www.abapzombie.com/podcast/2017/07/05/008-busca-eterna-de-uma-vaga-sem-lembrancas/"
-      ],
-      "title": [
-         "#008 – Busca eterna de uma vaga sem lembranças"
-      ],
-      "description": "Perdeu seu emprego recentemente? Já se inscreveu em trocentos grupos de Skype, e-mail, Facebook, Whatsapp, LinkedIn, e nada funciona? Vagas fantasmas para alocações de 30 … "
-   },
-   {
-      "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/05/tunnel-698518_1920.png",
-      "link": [
-         "https://www.abapzombie.com/mundo-sap/2017/05/31/exite-vida-apos-o-abap/"
-      ],
-      "title": [
-         "Existe vida após o ABAP?"
-      ],
-      "description": "Mais de mil setecentos e noventa e três anos se passaram desde a última vez que escrevi pro ABAPZombie. O motivo? Não trabalho com SAP … "
-   },
-   {
-      "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
-      "link": [
-         "https://www.abapzombie.com/off-topic/2017/05/03/o-abapzombie-ta-todo-bugado/"
-      ],
-      "title": [
-         "O ABAPZOMBIE TÁ TODO BUGADO!!!"
-      ],
-      "description": "Entrou em uma parte do site e ele parece completamente bugado, com as coisas fora do lugar, sem estilos, sem identação, sem pretty printer? Pois … "
-   },
-   {
-      "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/04/Post-do-Amiguinho-Zombie.jpeg",
-      "link": [
-         "https://www.abapzombie.com/amiguinho-zombie/2017/04/13/chamando-um-servico-xsjs-por-uma-aplicacao-sap-ui5/"
-      ],
-      "title": [
-         "Chamando um serviço XSJS por uma aplicação SAP UI5"
-      ],
-      "description": "Antes de mais nada, vamos começar explicando um pouco sobre o que consiste um arquivo “xsjs” e o que é uma aplicação “SAP UI5”. Um … "
-   },
-   {
-      "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
-      "link": [
-         "https://www.abapzombie.com/dicas-abap/2017/03/20/sap-gateway-get_stream-marotao-que-cospe-uma-danfe/"
-      ],
-      "title": [
-         "SAP Gateway – GET_STREAM marotão que cospe uma DANFE"
-      ],
-      "description": "FALA, BANDO DE MORTO VIVO! Todo mundo morto aí? Ou vivo? Quem sabe, faz tanto tempo que eu não escrevo aqui… Eis um postzinho de dica … "
-   },
-   {
-      "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/01/WhatsApp-Image-2017-01-11-at-20.13.00.jpeg",
-      "link": [
-         "https://www.abapzombie.com/podcast/2017/01/18/007-40-horas-nao-e-o-bastante/"
-      ],
-      "title": [
-         "#007 – 40 horas não é o bastante"
-      ],
-      "description": "Lembra quando nós dissemos que iríamos lançar um novo The Walking Dev todo mês? Pois é, acho que nós erramos na estimativa! (foi mal) Aproveitando … "
-   }
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/07/podcast2.jpg",
+        "link": [
+            "https://www.abapzombie.com/podcast/2019/04/09/011-brinca-nao-senao-voce-vai-ver-com-meu-balanco-voce-vai-gostar/"
+        ],
+        "title": [
+            "#011 \u2013 Brinca n\u00e3o sen\u00e3o voc\u00ea vai ver, com meu balan\u00e7o voc\u00ea vai gostar"
+        ],
+        "description": "Sim, n\u00f3s voltamos! Depois de um longo ver\u00e3o, o nosso podcast anual peri\u00f3dico est\u00e1 de volta! E \u00e9 claro que o tema n\u00e3o poderia ser \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2018/07/boss.png",
+        "link": [
+            "https://www.abapzombie.com/podcast/2018/07/25/010-assim-como-o-nosso-chefe-esse-episodio-e-10/"
+        ],
+        "title": [
+            "#010 \u2013 Assim como o nosso chefe, esse epis\u00f3dio \u00e9 10"
+        ],
+        "description": "Nosso ciclo de publica\u00e7\u00e3o est\u00e1 mais demorado do que o intervalo do cometa Halley, MAS SIM, caros amigos zumbiz\u00f3ides, CHEGOU MAIS UM EPIS\u00d3DIO DO THE \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2018/03/xsa.jpg",
+        "link": [
+            "https://www.abapzombie.com/podcast/2018/03/08/009-saindo-um-xsa-com-baas-bastante-node-molho-mqtt-e-fritas-sitsp/"
+        ],
+        "title": [
+            "#009 \u2013 Saindo um XSA com BaaS, bastante Node, molho MQTT e fritas #SITSP"
+        ],
+        "description": "Passou o Natal, passou o Carnaval, P\u00e1scoa chegando, e nada de epis\u00f3dio novo. \u00c9 NADA! TAMO DE VOLTA! Depois de mais um longo hiato, a \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2018/01/superpapo.jpg",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2018/01/03/chat-zumbizade-com-abap-channels-e-ui5/"
+        ],
+        "title": [
+            "Chat Zumbizade\u2122 com ABAP Channels e UI5"
+        ],
+        "description": "Fala zumbizada! Saindo da tumba ap\u00f3s eras de profundo adormecimento, c\u00e1 estou eu de volta \u00e0 linha de frente zumbi pra despejar um pouco mais \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/07/WhatsApp-Image-2017-06-28-at-19.00.58.jpeg",
+        "link": [
+            "https://www.abapzombie.com/podcast/2017/07/05/008-busca-eterna-de-uma-vaga-sem-lembrancas/"
+        ],
+        "title": [
+            "#008 \u2013 Busca eterna de uma vaga sem lembran\u00e7as"
+        ],
+        "description": "Perdeu seu emprego recentemente? J\u00e1 se inscreveu em trocentos grupos de Skype, e-mail, Facebook, Whatsapp, LinkedIn, e nada funciona? Vagas fantasmas para aloca\u00e7\u00f5es de 30 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/05/tunnel-698518_1920.png",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2017/05/31/exite-vida-apos-o-abap/"
+        ],
+        "title": [
+            "Existe vida ap\u00f3s o ABAP?"
+        ],
+        "description": "Mais de mil setecentos e noventa e tr\u00eas anos se passaram desde a \u00faltima vez que escrevi pro ABAPZombie. O motivo? N\u00e3o trabalho com SAP \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2017/05/03/o-abapzombie-ta-todo-bugado/"
+        ],
+        "title": [
+            "O ABAPZOMBIE T\u00c1 TODO BUGADO!!!"
+        ],
+        "description": "Entrou em uma parte do site e ele parece completamente bugado, com as coisas fora do lugar, sem estilos, sem identa\u00e7\u00e3o, sem pretty printer? Pois \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/04/Post-do-Amiguinho-Zombie.jpeg",
+        "link": [
+            "https://www.abapzombie.com/amiguinho-zombie/2017/04/13/chamando-um-servico-xsjs-por-uma-aplicacao-sap-ui5/"
+        ],
+        "title": [
+            "Chamando um servi\u00e7o XSJS por uma aplica\u00e7\u00e3o SAP UI5"
+        ],
+        "description": "Antes de mais nada, vamos come\u00e7ar explicando um pouco sobre o que consiste um arquivo \u201cxsjs\u201d e o que \u00e9 uma aplica\u00e7\u00e3o \u201cSAP UI5\u201d. Um \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2017/03/20/sap-gateway-get_stream-marotao-que-cospe-uma-danfe/"
+        ],
+        "title": [
+            "SAP Gateway \u2013 GET_STREAM marot\u00e3o que cospe uma DANFE"
+        ],
+        "description": "FALA, BANDO DE MORTO VIVO! Todo mundo morto a\u00ed? Ou vivo? Quem sabe, faz tanto tempo que eu n\u00e3o escrevo aqui\u2026 Eis um postzinho\u00a0de dica \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2017/01/WhatsApp-Image-2017-01-11-at-20.13.00.jpeg",
+        "link": [
+            "https://www.abapzombie.com/podcast/2017/01/18/007-40-horas-nao-e-o-bastante/"
+        ],
+        "title": [
+            "#007 \u2013 40 horas n\u00e3o \u00e9 o bastante"
+        ],
+        "description": "Lembra quando n\u00f3s dissemos que ir\u00edamos lan\u00e7ar um novo The Walking Dev todo m\u00eas? Pois \u00e9, acho que n\u00f3s erramos na estimativa! (foi mal) Aproveitando \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2016/08/abap1.jpg",
+        "link": [
+            "https://www.abapzombie.com/podcast/2016/08/18/006-historias-de-carreta/"
+        ],
+        "title": [
+            "#006 \u2013 Hist\u00f3rias de Carreta"
+        ],
+        "description": "\u00c9 um cilada, bino? N\u00e3o! \u00c9 o novo The Walking Dev! Neste sexto epis\u00f3dio iremos contar um pouco das nossas hist\u00f3rias de in\u00edcio de carreira. \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2016/07/50tons.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2016/07/05/50-tons-de-estimativa-software-empresarial-e-o-tesao-do-inventor/"
+        ],
+        "title": [
+            "50 tons de estimativa: software empresarial e o tes\u00e3o do inventor"
+        ],
+        "description": "Antes de mais nada: nada nesse\u00a0post \u00e9 lei, \u00e9 apenas minha opini\u00e3o. (E n\u00e3o tem nada de estimativa tamb\u00e9m, foi mal.) Algum tempo atr\u00e1s, quando \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/07/podcast2.jpg",
+        "link": [
+            "https://www.abapzombie.com/podcast/2016/05/24/005-comenta-documenta-e-senta-que-e-de-menta/"
+        ],
+        "title": [
+            "#005 \u2013 Comenta, documenta e senta que \u00e9 de menta"
+        ],
+        "description": "Com o esp\u00edrito de reviver cl\u00e1ssicos da m\u00fasica brasileira trazemos para voc\u00eas mais um The Walking Dev! Conseguimos juntar toda a equipe do site para \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2016/05/Hercules_and_Cerberus_LACMA_65.37.151.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2016/05/10/os-meus-3-maiores-problemas-do-abap/"
+        ],
+        "title": [
+            "Os (meus) 3 maiores problemas do ABAP"
+        ],
+        "description": "Eu estava fazendo as contas aqui e percebi que ano que vem eu completo DEZ ANOS trabalhando com SAP (nove como ABAP). Esse tempo n\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/07/podcast2.jpg",
+        "link": [
+            "https://www.abapzombie.com/podcast/2016/03/15/004-a-gramna-do-vizinho-sempre-e-mais-verde/"
+        ],
+        "title": [
+            "#004 \u2013 A gram(n)a do vizinho sempre \u00e9 mais verde?"
+        ],
+        "description": "AEEEE PENSOU QUE A GENTE MORREU? AQUI \u00c9 ZUMBI, MALUCO! Pode ter crise econ\u00f4mica, crise pol\u00edtica, mas ABAP sempre \u00e9 ABAP em todo lugar do \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2016/01/fim_do_abap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2016/01/13/o-abap-morreu-e-dai/"
+        ],
+        "title": [
+            "Supondo que o ABAP morra. E da\u00ed?"
+        ],
+        "description": "A cada 13 noites de lua cheia aparece mais algu\u00e9m cogitando se o ABAP vai, enfim, ser enterrado em um cemit\u00e9rio alem\u00e3o. Sinceramente eu n\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/07/podcast2.jpg",
+        "link": [
+            "https://www.abapzombie.com/podcast/2015/11/10/003-projetos-a-caravana-da-derrota/"
+        ],
+        "title": [
+            "#003 \u2013 Projetos: As caravanas da derrota"
+        ],
+        "description": "Todo mundo tem alguma hist\u00f3ria doida para contar dos projetos onde trabalhou. Neste epis\u00f3dio eu, o Mauro, a Daiane e o L\u00e9o compartilhamos algumas dessas \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2015/10/19/concorra-a-uma-copia-do-meu-livro/"
+        ],
+        "title": [
+            "Concorra a uma c\u00f3pia do meu livro!"
+        ],
+        "description": "Depois de ter explicado sobre a cria\u00e7\u00e3o e todos os paranau\u00eas do meu livro, s\u00f3 faltava um sorteio aqui para a galera que acompanha o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2015/10/05/de-onde-brotou-essa-historia-de-livro-abap/"
+        ],
+        "title": [
+            "De onde brotou essa hist\u00f3ria de \u201clivro ABAP\u201d?"
+        ],
+        "description": "Eae pequeno cambaleador, como vai essa vida zumb\u00edstica? Hoje eu vou falar um pouco sobre a cria\u00e7\u00e3o do meu livro! Sei que soa meio clich\u00ea, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/07/podcast2.jpg",
+        "link": [
+            "https://www.abapzombie.com/podcast/2015/09/14/the-walking-dev-002-retrocompatibilidade-de-volta-para-o-futuro-talvez/"
+        ],
+        "title": [
+            "#002 \u2013 Retrocompatibilidade: De volta para o futuro, talvez"
+        ],
+        "description": "Aeee mais um The Walking Dev! Novamente reunimos toda a\u00a0equipe do ABAPZombie \u00a0para\u00a0discutir sobre o tema do passado, do momento e (talvez) do futuro: Retrocompatibilidade. \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2015/08/17/criacao-de-parceiro-utilizando-a-camada-bol/"
+        ],
+        "title": [
+            "Cria\u00e7\u00e3o de parceiro utilizando a camada BOL"
+        ],
+        "description": "Ol\u00e1 Zumbizada animada! \u00a0 Quero mostrar um exemplo de como utilizar a camada BOL em um report, para isto vou mostrar o exemplo da cria\u00e7\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/07/podcast2.jpg",
+        "link": [
+            "https://www.abapzombie.com/podcast/2015/08/03/the-walking-dev-001-e-ai-o-futuro-abap-chegou/"
+        ],
+        "title": [
+            "#001 \u2013 E a\u00ed, o futuro ABAP chegou?"
+        ],
+        "description": "\u00a0 Neste primeiro epis\u00f3dio a equipe do ABAPZombie discute\u00a0sobre a pergunta do milh\u00e3o: \u00a0o futuro J\u00c1 CHEGOU MESMO para voc\u00ea caro ABAPer? Escute nossa vis\u00e3o\u00a0sincera \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2015/07/06/ui5-openui5-e-fiori-do-que-se-tratam-essas-paradas/"
+        ],
+        "title": [
+            "SAPUI5, OpenUI5 e Fiori: Do que se tratam essas paradas"
+        ],
+        "description": "\u201cConsultoria XYZ contrata: Desenvolvedor Fiori para projeto de 6 meses\u201d. Essa singela frase j\u00e1 demonstra o CAOS que essas tr\u00eas siglas\u00a0v\u00eam criando na cabe\u00e7a de \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/03/Goku_and_Cloud_BSP_and_jQM.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2015/06/24/bsp-jquery-mobile-ou-a-aventura-de-sap-webdev-parte-iii-backend/"
+        ],
+        "title": [
+            "BSP + jQuery Mobile, ou a aventura de SAP-webdev \u2013 Parte III: Backend"
+        ],
+        "description": "Acho que n\u00e3o demorou tanto quanto a saga do Freeza, mas sim caros zumbis, chegamos ao final desse guia! Vou falar agora\u00a0da parte principal do \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2015/06/09/testando-o-sap-gui-7-40-no-linux/"
+        ],
+        "title": [
+            "Testando o SAP GUI 7.40 \u2013 no LINUX"
+        ],
+        "description": "Ol\u00e1 amiguinhos\u00a0carniceiros zumbis, Como todos j\u00e1 devem saber, (mentira, nunca falei isso antes) eu sou usu\u00e1rio linux, por\u00e9m utilizo M\u00e1quina Virtual para trabalhar com o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/03/Goku_and_Cloud_BSP_and_jQM.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2015/05/26/bsp-jquery-mobile-ou-a-aventura-de-sap-webdev-parte-ii-frontend/"
+        ],
+        "title": [
+            "BSP + jQuery Mobile, ou a aventura de SAP-webdev \u2013 Parte II: Frontend"
+        ],
+        "description": "E a\u00ed seus consultor WD (Walking Dead), tudo bem? Aqui t\u00e1 tudo certo tamb\u00e9m. Nessa segunda parte da s\u00e9rie eu vou falar de coisas que \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2015/04/29/novo-livro-ui5-para-desenvolvedores-abap-por-fabio-pagoti-sorteio/"
+        ],
+        "title": [
+            "Novo livro \u201cUI5 para desenvolvedores ABAP\u201d, por F\u00e1bio Pagoti! (+sorteio!)"
+        ],
+        "description": "Ol\u00e1 pessoal! Sumi um pouco pois estava de f\u00e9rias! \ud83d\ude42 Retorno com uma not\u00edcia muito bacana para todos os desenvolvedores ABAP que desejam desbravar uma \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/03/Goku_and_Cloud_BSP_and_jQM.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2015/03/31/bsp-jquery-mobile-ou-a-aventura-de-sap-webdev-parte-i-preparacao-e-login/"
+        ],
+        "title": [
+            "BSP + jQuery Mobile, ou a aventura de SAP-webdev \u2013 parte I: Prepara\u00e7\u00e3o e login"
+        ],
+        "description": "FALAE SEUS BANDO DE CONSULTOR DEGENERADO! Tudo certo com voc\u00eas? Sim, eu estou de volta s\u00f3 agora em 2015 porque finalmente eu tenho algum conte\u00fado \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2015/03/19/meus-maiores-erros-como-abaper/"
+        ],
+        "title": [
+            "Meus maiores erros como ABAPer"
+        ],
+        "description": "\u00c9 muito legal falar sobre as coisas boas que constru\u00edmos ao longo do nosso caminho. Mas s\u00e3o as coisas ruins que nos marcam, fazendo com \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2015/02/05/manias-de-codigo/"
+        ],
+        "title": [
+            "Manias de C\u00f3digo"
+        ],
+        "description": "Todo programador tem as suas \u201cmanias\u201d: SEU jeito de fazer um READ TABLE, o SEU jeito de escrever um SELECT\u2026 Muitos desses costumes dependem do \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2015/01/19/sap-netweaver-gateway-do-que-se-trata-essa-parada/"
+        ],
+        "title": [
+            "SAP Netweaver Gateway \u2013 Do que se trata essa parada?"
+        ],
+        "description": "HANA, SAPUI5, Gateway, Lumira, HANA, River, Fiori, Cloud, HANA, HANA, HANA, etc, etc, etc\u2026 Tanta coisa nova, n\u00e3o \u00e9 mesmo? Quem trabalha com SAP j\u00e1 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2015/01/001-SAP-STMS.gif",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2015/01/15/a-hora-do-pesadelo-transporte-de-requests/"
+        ],
+        "title": [
+            "A Hora do Pesadelo: Transporte de Requests"
+        ],
+        "description": "Fala mo\u00e7ada! Meu primeiro post do ano, e \u00e9 claro que eu quero come\u00e7ar desejando um excelente 2015, com muita paz, sa\u00fade, sucesso e muito \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2014/12/11/ebook-brasileiro-de-abap-e-videos-do-sit-sao-paulo/"
+        ],
+        "title": [
+            "Ebook Brasileiro de ABAP e v\u00eddeos do SIT S\u00e3o Paulo"
+        ],
+        "description": "E a\u00ed, apanhando muito da NFe 3.10? \ud83d\ude42 Este post \u00e9 um update r\u00e1pido sobre algumas coisas bacanas que est\u00e3o rolando por a\u00ed\u2026 \u00a0 Ebook\u00a0Brazuca \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2014/11/25/sap-inside-track-sao-paulo-2014/"
+        ],
+        "title": [
+            "SAP Inside Track S\u00e3o Paulo 2014"
+        ],
+        "description": "Mais um ano, mais um SAP Inside Track S\u00e3o Paulo! Se voc\u00ea chegou agora, o SIT \u00e9 um evento organizado pela comunidade local, com palestras \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2014/11/13/abapsap-e-um-lixo-vamos-vender-coco-na-praia/"
+        ],
+        "title": [
+            "ABAP/SAP \u00e9 um lixo, vamos vender coco na praia"
+        ],
+        "description": "Que atire a primeira BADI quem nunca escutou a frase: \u201cTrabalhar com SAP/ABAP \u00e9 muito ruim, vamos largar tudo e vender coco na praia\u201d. \u00c9 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2014/09/abap_on_hana.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2014/10/15/zumbis-no-hana-parte-3-um-monte-de-tralha-nova/"
+        ],
+        "title": [
+            "Zumbis no HANA \u2013 Parte 3 \u2013 Um monte de tralha nova"
+        ],
+        "description": "Nesta semana o curso explorou bastante as novas features do OpenSQL (o SELECT vosso de cada dia) e uma nova funcionalidade chamada Core Data Services, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2014/09/abap_on_hana.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2014/10/09/zumbis-no-hana-parte-2-o-impacto-nos-programas-de-hoje-em-dia/"
+        ],
+        "title": [
+            "Zumbis no Hana \u2013 Parte 2 \u2013 O impacto nos programas de hoje em dia"
+        ],
+        "description": "Na segunda semana do curso da OpenSAP, os instrutores tentaram mostrar qual o impacto de uma migra\u00e7\u00e3o para o HANA nos programas de hoje em \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2014/09/abap_on_hana.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2014/09/29/zumbis-no-hana-parte-1/"
+        ],
+        "title": [
+            "Zumbis no HANA \u2013 Parte 1 \u2013 O b\u00e1sico do b\u00e1sico"
+        ],
+        "description": "Volta o HANA arrependido, com suas orelhas t\u00e3o fartas, com seu osso ro\u00eddo e com o rabo entre as patas. Volta o HANA arrepen\u2026 (o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2014/08/25/sap-inside-track-sao-leopoldo-2014/"
+        ],
+        "title": [
+            "Sap Inside Track S\u00e3o Leopoldo 2014"
+        ],
+        "description": "Ei voc\u00ea, vai estar no Sul na semana que vem? Ent\u00e3o aproveite e participe do SAP Inside Track S\u00e3o Leopoldo 2014, que vai ocorrer no \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2014/08/18/porque-comentar-codigo-nao-e-legal/"
+        ],
+        "title": [
+            "Porque comentar c\u00f3digo n\u00e3o \u00e9 legal"
+        ],
+        "description": "Opa, e a\u00ed mo\u00e7ada! Tudo certinho? No post de hoje vou falar sobre um assunto que incomoda muita gente. E n\u00e3o \u00e9 sobre elefantes. Na \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2014/08/11/top-coisas-que-voce-nao-deveria-fazer-num-codigo-abap/"
+        ],
+        "title": [
+            "Top coisas que voc\u00ea n\u00e3o deveria fazer num c\u00f3digo ABAP"
+        ],
+        "description": "N\u00f3s j\u00e1 postamos diversas dicas de coisas que voc\u00ea n\u00e3o deveria fazer num c\u00f3digo-fonte. Por\u00e9m, em minhas andan\u00e7as por ambientes de clientes, ainda vejo muitos \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2014/07/11/sap-press-7-ebooks-oficiais-de-graca/"
+        ],
+        "title": [
+            "SAP Press \u2013 7 Ebooks Oficiais de Gra\u00e7a"
+        ],
+        "description": "Sexta feira, fim do dia, EF terminada e voc\u00ea a\u00ed co\u00e7ando para \u201cdar uma valorizada\u201d. Que tal ganhar um Ebook oficial da SAP Press de \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2014/06/27/abap-300/"
+        ],
+        "title": [
+            "ABAP 300"
+        ],
+        "description": "ABAP 300 tudo na linha de frente! M\u00fasica \u2013 Wesley Massini Video \u2013 Fabiano Pereira Edi\u00e7\u00e3o \u2013 Glic\u00e9rio Corvizzi Figurantes Andr\u00e9 Almeida, Genilton Soares, Diego \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2014/06/02/sou-abap-ha-algum-tempo-e-agora/"
+        ],
+        "title": [
+            "Sou ABAP h\u00e1 algum tempo\u2026 e agora?"
+        ],
+        "description": "Voc\u00ea trabalha com ABAP h\u00e1 algum tempo,j\u00e1 passou da fase de empolga\u00e7\u00e3o, descobriu um mundo gigaaaante dentro do ecossistema SAP, e agora n\u00e3o sabe qual \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2014/05/23/permitase-um-momento-de-relax-hacker-fim-do-mundo-apos-as-olimpiadas-rio/"
+        ],
+        "title": [
+            "Permitase um Momento de Relax \u2013 Hacker \u2013 fim do mundo ap\u00f3s as olimp\u00edadas do Rio"
+        ],
+        "description": "\u00a0 EXTRA! EXTRA! Hackers da Globo fazem programa de exemplo para derrubar aplica\u00e7\u00f5es SAP! DUMPs Sem explica\u00e7\u00f5es; Sem autoriza\u00e7\u00e3o na SU53 para ver dados de \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap1.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2014/05/07/rtts-rtti-rttc-e-voce-tudo-a-ver-parte-3/"
+        ],
+        "title": [
+            "RTTS, RTTI, RTTC e voc\u00ea: tudo a ver \u2013 Parte 3"
+        ],
+        "description": "Este \u00e9 o post que vai agregar valor no seu camarote: voc\u00ea aprender\u00e1 como criar \u201cqualquer parada\u201d em tempo de execu\u00e7\u00e3o com o RTTS. Come\u00e7amos \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2014/05/05/buscar-business-role-logada/"
+        ],
+        "title": [
+            "Buscar Business Role Logada"
+        ],
+        "description": "Ol\u00e1 amiguinhos. Quase 90% dos meus desenvolvimentos s\u00e3o no SAP CRM, em todos os projetos sempre tem alguma valida\u00e7\u00e3o com base na Business Role que \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2014/04/30/crm_order_maintain-nunca-mais-ufa/"
+        ],
+        "title": [
+            "CRM_ORDER_MAINTAIN Nunca mais, UFA!"
+        ],
+        "description": "Ol\u00e1 pequeno aprendiz de cria\u00e7\u00e3o de DUMP. \u00a0 Para voc\u00ea que \u00e9 vida loka\u00a0do SAP CRM, sabe como a SAP zuou geral quando desenvolveu a \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2014/04/29/rtts-rtti-rttc-e-voce-tudo-a-ver-parte-2/"
+        ],
+        "title": [
+            "RTTS, RTTI, RTTC e voc\u00ea: tudo a ver \u2013 Parte 2"
+        ],
+        "description": "E a\u00ed, como vai aquele desenvolvimento bizarro em que voc\u00ea precisa identificar qual o tipo de uma determinada vari\u00e1vel em tempo de execu\u00e7\u00e3o? Hoje vamos \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap1.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2014/04/25/rtts-rtti-rttc-e-voce-tudo-a-ver-parte-1-bonus-casting/"
+        ],
+        "title": [
+            "RTTS, RTTI, RTTC e voc\u00ea: tudo a ver \u2013 Parte 1 (b\u00f4nus: Casting)"
+        ],
+        "description": "Todo mundo adora fazer coisas \u201cdin\u00e2micas\u201d em seus programas, certo? Para essa finalidade, a hierarquia de classes conhecida como RTTS tem muitas ferramentas que podem \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2014/02/13/palestra-sapforum-o-abap-do-futuro/"
+        ],
+        "title": [
+            "Palestra #SAPForum \u2013 O ABAP do Futuro"
+        ],
+        "description": "Pessoal, agrade\u00e7o a todos que compareceram em minha palestra no SAP Forum 2014. Tentei fazer um overview geral de como est\u00e1 a tecnologia ABAP, e \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2014/01/30/sap-forum-para-developers-quem-nao-ler-perdeu/"
+        ],
+        "title": [
+            "SAP Forum\u2026 para Developers? (quem n\u00e3o ler, perdeu)"
+        ],
+        "description": "Voc\u00ea conhece o SAP Forum? Talvez voc\u00ea conhe\u00e7a como aquele evento que \u201cinvoca\u201d as pessoas do cliente que voc\u00ea mais precisa . Ou talvez voc\u00ea \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2014/01/biblioteca.jpg",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2014/01/06/chega-de-bla-bla-bla-eu-quero-codigos/"
+        ],
+        "title": [
+            "Chega de Bla-Bla-Bla! Eu quero C\u00d3DIGOS!"
+        ],
+        "description": "E se a gente juntasse todos os c\u00f3digos fontes j\u00e1 postados aqui no ABAPZombie, e organiz\u00e1ssemos tudo bonitinho num reposit\u00f3rio, para qualquer um poder baixar? \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2013/12/02/sap-inside-track-sao-paulo-2013/"
+        ],
+        "title": [
+            "SAP Inside Track S\u00e3o Paulo 2013"
+        ],
+        "description": "E finalmente chegamos na \u00e9poca do ano mais divertida para a galera que desenvolve coisas bizarras neste mund\u00e3o SAP. \u00c9 o SAP Inside Track S\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/09/alv_demo.jpg",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2013/09/19/alvs-standard-reutilizando-o-caos-alemao/"
+        ],
+        "title": [
+            "ALVs Standard: Reutilizando o caos alem\u00e3o"
+        ],
+        "description": "Queridos zumbis, alguma vez voc\u00eas j\u00e1 passaram pela seguinte situa\u00e7\u00e3o: o seu programa precisa usar as informa\u00e7\u00f5es de algum relat\u00f3rio ALV, por\u00e9m o relat\u00f3rio n\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2013/09/09/perdeu-preiboi-agora-e-oo-parte-iii/"
+        ],
+        "title": [
+            "Perdeu preiboi, agora \u00e9 OO \u2013 Parte III"
+        ],
+        "description": "Reflex\u00e3o do dia: \u201cMas vale um teste bem feito do que dois DUMPS em PRD\u201d. Heran\u00e7a (ou generaliza\u00e7\u00e3o) \u00e9 o mecanismo pelo qual uma classe \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2013/09/02/in-memory-database-management-2013/"
+        ],
+        "title": [
+            "In-Memory Database Management 2013"
+        ],
+        "description": "Come\u00e7ou semana passada mais um curso online nos mesmos moldes do curso do SAP Hana, 6 semanas de curso com v\u00eddeo aulas \u00a0e um teste \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/08/abap_fim_do_codex.png",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2013/08/22/libertacao-abap-sera-que-agora-vai/"
+        ],
+        "title": [
+            "Liberta\u00e7\u00e3o ABAP \u2013 Ser\u00e1 que agora vai?"
+        ],
+        "description": "Se voc\u00ea \u00e9 um desenvolvedor ABAP com o m\u00ednimo de interesse na linguagem, j\u00e1 deve ter vasculhado nosso amigo SCN atr\u00e1s de projetos divertidos. N\u00f3s \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2013/07/29/asciidoc-livre-se-de-templates-inuteis-de-documentacao/"
+        ],
+        "title": [
+            "ASCIIDOC \u2013 Livre-se de templates in\u00fateis de documenta\u00e7\u00e3o"
+        ],
+        "description": "Quem segue o ABAPZombie h\u00e1 algum tempo deve saber que eu abomino a forma como os projetos costumam documentar aplica\u00e7\u00f5es criadas em ABAP. Acho que \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/adeus_blog_velho.png",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2013/06/06/adeus-blog-velho-feliz-site-novo/"
+        ],
+        "title": [
+            "Adeus blog velho\u2026 Feliz site novo!"
+        ],
+        "description": "Demorou um pouco, mas finalmente conseguimos alterar o layout de todo o site. Ainda temos algumas coisas para ajustar, mas s\u00e3o features menores e que \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2013/05/28/hana-wtf/"
+        ],
+        "title": [
+            "Hana? WTF?"
+        ],
+        "description": "S\u00f3 escuta falar dessa pqp de Hana e n\u00e3o entende nada? Voc\u00ea s\u00f3 lembra de\u00a0hindu\u00edsmo,\u00a0da m\u00fasica do Nando Reis ou do indiano do f\u00f3rum da \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2013/04/09/nao-se-perca-no-mundo-magico-das-portas-transacoes-para-idoc/"
+        ],
+        "title": [
+            "N\u00e3o se perca no mundo m\u00e1gico das portas \u2013 Transa\u00e7\u00f5es para IDOC"
+        ],
+        "description": "Confesso que fiquei sem entender absolutamente nada de IDOCs por muito tempo, e n\u00e3o tinha saco e nem vontade de aprender: eles sempre me pareceram \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/09/bouncer_header.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2013/03/28/seguranca-abap-parte-iv-secure-store-forward-ssf/"
+        ],
+        "title": [
+            "Seguran\u00e7a ABAP \u2013 Parte IV \u2013 Secure Store & Forward (SSF)"
+        ],
+        "description": "O qu\u00ea? Post novo da s\u00e9rie de Seguran\u00e7a? O MUNDO ACABOU??? N\u00c3O, CARO AMIGO ZUMBIZ\u00d3IDE! C\u00e1 estamos n\u00f3s de volta (eu no caso), dessa vez \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2013/03/26/comandos-de-sistema-sm69/"
+        ],
+        "title": [
+            "Comandos de Sistema \u2013 SM69"
+        ],
+        "description": "Ol\u00e1 Amiguinhos zumbis. Aqui no projeto, passei por uma situa\u00e7\u00e3o que gostaria de compartilhar. Cen\u00e1rio: Criar um arquivo no servidor, e dar permiss\u00e3o 775."
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2013/02/26/sera-que-todo-abaper-e-mesmo-um-consultor/"
+        ],
+        "title": [
+            "Ser\u00e1 que todo ABAPer \u00e9 mesmo um Consultor?"
+        ],
+        "description": "Caro zumbi da caverna uivante: ser\u00e1 mesmo que todo ABAPer desempenha um papel de consultor? Voc\u00ea, que fica debugando eternamente a VA01, responda r\u00e1pido: O \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2013/02/07/permitase-un-momento-de-relax-quando-voce-acha-que-ja-viu-de-tudo/"
+        ],
+        "title": [
+            "Permitase un Momento de Relax \u2013 Quando voc\u00ea acha que j\u00e1 viu de tudo\u2026"
+        ],
+        "description": "Eu estava preparando um post um pouco mais divertido para voltar do recesso de janeiro, mas tem certas coisas que a gente v\u00ea por a\u00ed \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/01/attack.jpg",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2013/01/17/zcopy-objetos-clonados/"
+        ],
+        "title": [
+            "ZCOPY \u2013 Objetos Clonados"
+        ],
+        "description": "E a\u00ed zumbizadaaa!!! FELIZ 2013 PARA TODO MUNDO!!! Depois que descobri que o mundo n\u00e3o acabou, vamos voltar ao zumbi mode=ON. Bom, na minha experi\u00eancia \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/12/19/webdynpro-abap-conteudo-mime-dinamico-no-cache-do-as/"
+        ],
+        "title": [
+            "WebDynpro ABAP \u2013 Conte\u00fado MIME din\u00e2mico no cache do AS"
+        ],
+        "description": "Fala zumbizada esperta! Que t\u00edtulo monstruoso, n\u00e3o? Hoje estou passando aqui pra deixar uma t\u00e9cnica relacionada a WDA que eu \u201crecolhi\u201d de alguns sites e \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/12/17/validacao-de-cpf-cnpj/"
+        ],
+        "title": [
+            "Valida\u00e7\u00e3o de CPF / CNPJ"
+        ],
+        "description": "Certo Zombizada?! Essa \u00e9 para a garotada que se mata convertendo fun\u00e7\u00e3o de JavaScript para ABAP. (pior que ja vi)\u00a0"
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/12/05/guarde-seus-codigos-like-a-boss-nao-nao-e-o-saplink/"
+        ],
+        "title": [
+            "Guarde seus c\u00f3digos like a boss (n\u00e3o, n\u00e3o \u00e9 o SAPLink)"
+        ],
+        "description": "Voc\u00ea que acompanha nosso site j\u00e1 deve estar de saco cheio de ouvir-nos falar sobre o SAPLink. Mas vou fazer uma confiss\u00e3o para voc\u00ea, caro \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/11/28/gerando-e-executando-codigos-em-tempo-de-execucao/"
+        ],
+        "title": [
+            "Gerando e executando c\u00f3digos em tempo de execu\u00e7\u00e3o"
+        ],
+        "description": "N\u00e3o se confunda com o t\u00edtulo, caro zumbi das neves! \u00c9 isso mesmo: a execu\u00e7\u00e3o do seu programa principal vai gerar e executar um outro \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2012/11/14/video-da-palestra-no-sap-inside-track-2012-abap-no-eclipse/"
+        ],
+        "title": [
+            "V\u00eddeo da Palestra no SAP Inside Track 2012 \u2013 ABAP no Eclipse"
+        ],
+        "description": "Saiu o v\u00eddeo da palestra que eu ministrei no \u00faltimo SAP Inside Track S\u00e3o Paulo. A grava\u00e7\u00e3o ficou animal, e foi feita pelo Henrique Dias, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2012/11/13/entidade-confirmada-crm/"
+        ],
+        "title": [
+            "Entidade confirmada \u2013 CRM"
+        ],
+        "description": "Ol\u00e1 amiguinhos zumbis\u2026 Por todos os projetos de CRM que eu passei, em todos precisei fazer algum desenvolvimento que precise pegar a entidade confirmada, resolvi \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2012/10/25/sitsp-2012-e-amanha-e-voce-pode-assistir-online/"
+        ],
+        "title": [
+            "SITSP 2012 \u2013 \u00c9 amanh\u00e3, e voc\u00ea pode assistir online!"
+        ],
+        "description": "Pequeno grande zumbi cambaleante e sem bra\u00e7o, amanh\u00e3 vai rolar o SAP Inside Track S\u00e3o Paulo 2012! Se voc\u00ea mora em outra cidade, outro estado, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/10/15/abapzombie-guide-to-abap-parte-37-continue/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 37 \u2013 CONTINUE"
+        ],
+        "description": "O comando CONTINUE \u00e9 utilizado para encerrar a execu\u00e7\u00e3o de um la\u00e7o de um loop (comandos LOOP, DO, WHILE\u2026) e ir para o pr\u00f3ximo registro. \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/10/08/abapzombie-guide-to-abap-parte-36-refresh-e-free/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 36 \u2013 REFRESH e FREE"
+        ],
+        "description": "Fala Zumbizada! No post de hoje da s\u00e9rie \u201cABAPZombie Guide to ABAP\u201d vamos falar sobre 2 comandos b\u00e1sicos de inicializa\u00e7\u00e3o: REFRESH e FREE. Mas\u2026 voc\u00ea \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2012/10/02/sap-inside-track-sao-paulo-2012-dessa-vez-voce-ganha-em-dobro/"
+        ],
+        "title": [
+            "SAP Inside Track S\u00e3o Paulo 2012 \u2013 Desta vez voc\u00ea ganha em dobro!"
+        ],
+        "description": "Quem acompanha o ABAPZombie h\u00e1 bastante tempo sabe que n\u00f3s levantamos a bandeira de que compartilhar conhecimento\u00a0\u00e9 uma das formas mais legais de\u00a0aprender. E esse \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/09/26/aplicando-query-services-e-quebrando-a-cara/"
+        ],
+        "title": [
+            "Aplicando Query Services (e quebrando a cara)"
+        ],
+        "description": "Ol\u00e1, zumbizada faminta por c\u00f3digo. No ano passado, o F\u00e1bio do ABAP101 fez uma s\u00e9rie de posts\u00a0explicando o que s\u00e3o e como funcionam os Object \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/09/18/url-para-aplicacao-webdynpro/"
+        ],
+        "title": [
+            "URL para aplica\u00e7\u00e3o Webdynpro"
+        ],
+        "description": "OOOllll\u00e1\u00e1 AMIGUINHOS #FAIL \u00a0 Como fazer a chamada de uma aplica\u00e7\u00e3o webdynpro em um report? Deixar a URL hard code? Ou colocar na STVARV? #NOT"
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/09/04/a-arte-milenar-de-comentar-codigos-abap/"
+        ],
+        "title": [
+            "A arte milenar de comentar c\u00f3digos ABAP"
+        ],
+        "description": "Na minhas andan\u00e7as por c\u00f3digos alheios e c\u00f3digos DMM (\u201cde mim mesmo\u201c) antigos, sempre acho curioso a quantidade de coment\u00e1rios sem sentido que encontro. Impulsionado \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/09/bouncer_header.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/08/22/seguranca-abap-parte-iii-virus-scan-interface-vsi/"
+        ],
+        "title": [
+            "Seguran\u00e7a ABAP \u2013 Parte III \u2013 Virus Scan Interface (VSI)"
+        ],
+        "description": "Fala, bando de morto-vivo! Admito que demorei, mas estou aqui de volta pra seguir esta s\u00e9rie. Pois bem, com o assunto \u201cvulnerabilidades ABAP\u201d esgotado, desta \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/08/20/abapzombie-guide-to-abap-parte-35-describe-table/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 35 \u2013 DESCRIBE TABLE"
+        ],
+        "description": "O DESCRIBE TABLE retorna o tamanho de uma tabela, simples assim. REPORT zombie_describe_table. SELECT\u00a0* FROM\u00a0scarr INTO\u00a0TABLE\u00a0t_scarr. DESCRIBE\u00a0TABLE\u00a0t_scarr. DESCRIBE\u00a0TABLE\u00a0t_scarr\u00a0KIND\u00a0v_tipo. DESCRIBE\u00a0TABLE\u00a0t_scarr\u00a0LINES\u00a0v_linhas. DESCRIBE\u00a0TABLE\u00a0t_scarr\u00a0OCCURS\u00a0v_tamanho_inicial. WRITE: /\u2019sy-tfill\u2019\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0,\u00a0sy-tfill\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0,\u00a0\u201cquantidade\u00a0de\u00a0linhas /\u2019sy-tleng\u2019\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0,\u00a0sy-tleng\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0,\u00a0\u201ctamanho\u00a0em\u00a0bytes\u00a0de\u00a0uma\u00a0linha /\u2019v_tipo\u2019\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0,\u00a0v_tipo\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0,\u00a0\u201ctipo\u00a0da\u00a0tabela:\u00a0\u201cT\u201d\u00a0standard\u00a0table,\u00a0\u201cS\u201d\u00a0sorted\u00a0table\u00a0e\u00a0\u201cH\u201d\u00a0hashed\u00a0tables /\u2019v_linhas\u2019\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0,\u00a0v_linhas\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0,\u00a0\u201cquantidade\u00a0de\u00a0linhas \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/08/15/abap-no-eclipse-feature-nova-da-sapgui-e-o-comeco-do-fim-da-era-dos-dinossauros/"
+        ],
+        "title": [
+            "ABAP no Eclipse e feature nova da SAPGui: ser\u00e1 este o come\u00e7o do fim da era dos ABAPossauros?"
+        ],
+        "description": "Hey amigo ABAPossauro, voc\u00ea ainda usa aquele \u201clindo\u201d editor antigo, que n\u00e3o tinha nem code highlight? Ent\u00e3o venha se divertir neste post divido em 3 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2012/08/09/e-a-tal-desvalorizacao-do-mercado-abap-heim/"
+        ],
+        "title": [
+            "E a tal Desvaloriza\u00e7\u00e3o do Mercado ABAP, heim?"
+        ],
+        "description": "Ol\u00e1 caro colega meio verde que anda cambaleando e tem um vocabul\u00e1rio monossil\u00e1bico (\u00e3\u00e3\u00e3\u00e3\u00e3\u00e3hhhhhhh). Hoje eu acordei inspirado por uma discuss\u00e3o numa lista de ABAP \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/09/bouncer_header.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/07/23/seguranca-abap-parte-ii-comunicacao-com-o-kernel/"
+        ],
+        "title": [
+            "Seguran\u00e7a ABAP \u2013 Parte II \u2013 Comunica\u00e7\u00e3o com o kernel"
+        ],
+        "description": "Ol\u00e1 caros zumbis. Vamos continuar nossa (depressiva) caminhada pelas vulnerabilidades ABAP. Se voc\u00ea ainda n\u00e3o leu o\u00a0white paper\u00a0que eu mencionei na Parte I,\u00a0essa \u00e9 sua \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2012/07/exit.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/07/19/badis-user-exits-enhancements-como-encontra-los/"
+        ],
+        "title": [
+            "BADI\u2019s, User-exits, Enhancements\u2026 como encontr\u00e1-los?"
+        ],
+        "description": "Faaaala Zumbizada! Estou de volta no modo \u201czombie = ON\u201d por causa do projeto, testes integrados que est\u00e3o acabando com a minha vida (e que \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/09/bouncer_header.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/07/02/seguranca-abap-parte-i-codigo-dinamico/"
+        ],
+        "title": [
+            "Seguran\u00e7a ABAP \u2013 Parte I \u2013 C\u00f3digo din\u00e2mico"
+        ],
+        "description": "Fala zombizada! Aqui quem fala \u00e9 o seu camarada @ABAPdepressao, vindo diretamente do mundinho do Twitter onde compartilho das tristezas di\u00e1rias de programar em alem\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2012/06/29/perolas-de-um-mundo-zumbistico-parte-4/"
+        ],
+        "title": [
+            "P\u00e9rolas de um mundo ZUMB\u00cdSTICO \u2013 PARTE 4 \u2013 S\u00edndrome do Rob\u00f4 de constante din\u00e2mica"
+        ],
+        "description": "\u2014 Ningu\u00e9m esta seguro; \u2014 Ningu\u00e9m esta ileso de seus ataques; \u2014 Chamem o Batman para pegar as chaves da justi\u00e7a (SE37 fun\u00e7\u00e3o BATMAN_GETKEYS);"
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2012/06/28/o-quinto-membro-depressivo-quer-dizer-perdido/"
+        ],
+        "title": [
+            "O quinto membro depressivo, quer dizer, perdido!"
+        ],
+        "description": "Ah\u00e1, por essa voc\u00ea n\u00e3o esperava. Fico muito feliz em anunciar que o MAIOR troll da ABAPosfera Brasileira agora \u00e9 um membro do ABAPZombie! (t\u00e1, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/06/27/perdeu-preiboi-agora-e-oo-parte-ii/"
+        ],
+        "title": [
+            "Perdeu preiboi, agora \u00e9 OO \u2013 Parte II"
+        ],
+        "description": "Teste.. testando.. 123\u2026 F8\u2026 Ainda existe esperan\u00e7a, a PARTE II do \u201cPerdeu preiboi, agora \u00e9 OO\u201d. Antes de ler este post leia\u00a0Perdeu preiboi, agora \u00e9 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2012/06/22/perolas-de-um-mundo-zumbistico-parte-3/"
+        ],
+        "title": [
+            "P\u00e9rolas de um mundo ZUMB\u00cdSTICO \u2013 PARTE 3 \u2013 Performs autoexplicativos"
+        ],
+        "description": "Eles continuam garantindo nossas aloca\u00e7\u00f5es\u00a0nos assombrando. Corre que os Zumbis podem estar em qualquer lugar, at\u00e9 no seu ambiente."
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2012/06/15/perolas-de-um-mundo-zumbistico/"
+        ],
+        "title": [
+            "P\u00e9rolas de um mundo ZUMB\u00cdSTICO \u2013 Parte 2 \u2013 TUDO PRA FUGIR DO HARDCODE"
+        ],
+        "description": "A galera Zumbi esta ficando a cada projeto mais criativa, vamos nos armar para combater essa guerra at\u00e9 que o \u00faltimo ABAP Criativo\u00a0Zumbi n\u00e3o\u00a0esteja vivo \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/06/14/abapzombie-guide-to-abap-parte-34-exit/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 34 \u2013 EXIT"
+        ],
+        "description": "Come\u00e7amos agora uma nova s\u00e9rie de comandos, utilizada para controlar a sa\u00edda de um loop (LOOP, WHILE e DO). Os comandos s\u00e3o: EXIT CHECK CONTINUE \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/06/11/documentacoes-e-o-tempo-perdido-que-nao-volta-mais/"
+        ],
+        "title": [
+            "Documenta\u00e7\u00f5es e o \u201ctempo perdido que n\u00e3o volta mais\u201d"
+        ],
+        "description": "Tempo. Na \u00e1rea de TI, quase tudo se resume ao tempo que voc\u00ea, desenvolvedor, vai gastar para fazer X atividades. Existem milhares de t\u00e9cnicas e \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2012/06/06/perolas-de-um-mundo-zumbistico-parte-1-eu-amo-criar-variaveis-inuteis/"
+        ],
+        "title": [
+            "P\u00e9rolas de um mundo ZUMB\u00cdSTICO Parte 1 \u2013 Eu AMO CRIAR VARI\u00c1VEIS IN\u00daTEIS"
+        ],
+        "description": "Tarefa: Concatenar X vari\u00e1veis numa string, separadas por v\u00edrgula. Solu\u00e7\u00e3o Implementada:"
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/05/16/war-report-estrutura-e-tudo-camarada/"
+        ],
+        "title": [
+            "War Report \u2013 Estrutura \u00e9 tudo, camarada\u2026"
+        ],
+        "description": "\u00c9 caro amigo zumbi, consegui sobreviver (pelo menos por enquanto\u2026). \u00a0Em um mundo onde regras sistem\u00e1ticas s\u00e3o escritas em sequ\u00eancia, e onde n\u00e3o existe muita \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/03/27/abapzombie-guide-to-abap-parte-33-wait-until/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 33 \u2013 WAIT UNTIL"
+        ],
+        "description": "Continuando a espera dos comandos os comandos de espera, temos o WAIT UNTIL. A sintaxe \u00e9: WAIT UNTIL express\u00e3o [UP TO x SECONDS]. Onde express\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/03/23/codigos-de-zumbis-para-zumbis/"
+        ],
+        "title": [
+            "C\u00f3digos de Zumbis para Zumbis"
+        ],
+        "description": "Se voc\u00ea chegou at\u00e9 aqui procurando algum c\u00f3digo fonte \u201cbacanudo\u201d para te ajudar a fazer alguma coisa, saiba que veio ao lugar certo! Mas voc\u00ea \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/03/22/abapzombie-guide-to-abap-parte-32-wait/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 32 \u2013 WAIT"
+        ],
+        "description": "Bem vindos ao meu sensacional post de inaugura\u00e7\u00e3o no qual iremos falar do comando: WAIT! A sintaxe \u00e9: WAIT UP TO x SECONDS. Onde x \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2012/03/15/criacao-de-campo-no-crm-7-0-com-aet-video/"
+        ],
+        "title": [
+            "Cria\u00e7\u00e3o de Campo no CRM 7.0 com AET \u2013 V\u00eddeo"
+        ],
+        "description": "Certo Zombizada, Algo que esta gerando muitas d\u00favidas no mundo do CRM, a ferramenta AET ( Application Enhancement Tool ) da vers\u00e3o 7.0, esta ferramenta \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2012/03/Mass_Data_Runtime_SAP_Parallel_ABAP_Processing_Performance_Issue_Batch.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/03/12/processamento-em-paralelo-utilizando-rfc-assincrona/"
+        ],
+        "title": [
+            "Processamento em Paralelo utilizando RFC Ass\u00edncrona"
+        ],
+        "description": "Demorou, mas chegou! Meu post inaugural no ABAP Zombie! Vou come\u00e7ar falando um pouco sobre processamento paralelo com RFC Ass\u00edncrona. Hein??? O processamento em paralelo \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/03/08/abapzombie-guide-to-abap-parte-31-get-time-stamp/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 31 \u2013 GET TIME STAMP"
+        ],
+        "description": "Pois \u00e9, o ABAP tem um comando nativo para criar um timestamp, o GET TIME STAMP. A minha falta de \u00e2nimo na frase acima tem \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2012/03/06/abapzombie-guide-to-abap-parte-30-get-time/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 30 \u2013 GET TIME"
+        ],
+        "description": "Bom, j\u00e1 perdemos a ordena\u00e7\u00e3o faz um tempo, ent\u00e3o, a partir de hoje, vamos pegar comandos aleat\u00f3rios e j\u00e1 era \ud83d\ude00 GET TIME! Comando simples \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2012/02/23/entrevista-zumbistica-nuno-godinho-do-abapinho-com/"
+        ],
+        "title": [
+            "Entrevista Zumb\u00edstica: Nuno Godinho, do Abapinho.com"
+        ],
+        "description": "Voc\u00ea j\u00e1 se perguntou sobre como o mundo SAP funciona em outros pa\u00edses? Ou j\u00e1 escutou rumores de que \u201cno exterior tem bastante trabalho para \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2012/02/17/selecao-com-query-dinamica-bol/"
+        ],
+        "title": [
+            "Sele\u00e7\u00e3o com Query Dinamica \u2013 BOL"
+        ],
+        "description": "\u2013 Fazer uma consulta de documento\u2026 \u2013 F\u00e1cil \u2013 SEM comando SELECT\u2026 A partir do CRM 6.0, existe uma maneira diferente de fazermos nossas sele\u00e7\u00f5es \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2012/02/13/1-2-novos-integrantes-do-abapzombie/"
+        ],
+        "title": [
+            "-1 +2 = Novos integrantes do ABAPZombie!"
+        ],
+        "description": "Se voc\u00ea ainda n\u00e3o olhou a barra laterial do blog, olhe agora! Pois \u00e9, algumas mudan\u00e7as: A Priscila Silva deixou a nossa equipe. Agradecemos pelo \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2012/02/06/decisoes-polemicas-ou-como-entrar-em-discussoes-com-seus-pares/"
+        ],
+        "title": [
+            "Decis\u00f5es Pol\u00eamicas, ou \u201cComo entrar em discuss\u00f5es com seus pares\u201d"
+        ],
+        "description": "No final do ano passado, em conversas com amigos que acompanham o ABAPZombie, eu disse para eles que iria tomar uma decis\u00e3o pol\u00eamica para 2012. \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2012/02/02/o-mauro-casou/"
+        ],
+        "title": [
+            "O Mauro casou!"
+        ],
+        "description": "Se voc\u00ea estava imaginando o motivo pelo qual alguns posts est\u00e3o demorando para aparece, pode parar, porqueeeee\u2026 O Mauro casou hoje no civil! (e voc\u00ea \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2012/01/23/instabilidade-no-site/"
+        ],
+        "title": [
+            "Instabilidade no site"
+        ],
+        "description": "Pessoal, De um tempo para c\u00e1 estamos percebendo que o site est\u00e1 inst\u00e1vel, e alguns visitantes podem estar recebendo mensagens de que o site est\u00e1 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/12/22/performance-comparacao-de-trechos-de-codigo/"
+        ],
+        "title": [
+            "Performance: Compara\u00e7\u00e3o de trechos de c\u00f3digo"
+        ],
+        "description": "Bom, quase todo ABAPer sabe que se voc\u00ea for na transa\u00e7\u00e3o SE30 e clicar em \u201cDicas e Sugest\u00f5es\u201d (Tips & Tricks em ingl\u00eas), voc\u00ea vai \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/12/20/programa-de-teste-de-clausula-where/"
+        ],
+        "title": [
+            "Programa de teste de clausula WHERE"
+        ],
+        "description": "Ceerrtttooo Zombizada!!! Desde a antiguidade, antes do mundo come\u00e7ar a contar o tempo e os dias\u2026 Antes da galinha ou do ovo\u2026 J\u00e1 debugava pela \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/12/16/exemplo-ole-word/"
+        ],
+        "title": [
+            "Exemplo OLE \u2013 WORD"
+        ],
+        "description": "Integrar o SAP com sistema legado.. Integrar o SAP com PI\u2026 Integrar o SAP com uma torradeira\u2026 Integrar o SAP com mundos perdidos\u2026 Enfim\u2026 Este \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2011/12/14/1806/"
+        ],
+        "title": [
+            "A onda do despreparo pode estar lhe atingindo \u2013 e talvez voc\u00ea n\u00e3o tenha percebido"
+        ],
+        "description": "Para celebrar um ano de ABAPZombie, com a migra\u00e7\u00e3o bem sucedida para o novo servidor e novo layout, resolvi escrever meu primeiro post \u201cn\u00e3o t\u00e9cnico\u201d \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/12/12/abapzombie-guide-to-abap-parte-29-catch-system-exceptions/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 29 \u2013 CATCH SYSTEM-EXCEPTIONS"
+        ],
+        "description": "Voc\u00ea provavelmente j\u00e1 apertou F1 em um comando, e viu no final do help uma lista com as \u201cExceptions\u201d que o sistema pode disparar caso \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/12/09/criandoalterando-tabela-ordenadas-ou-manha-do-binary-search/"
+        ],
+        "title": [
+            "Criando/Alterando tabela ordenadas (ou \u201cmanha\u201d do BINARY SEARCH)"
+        ],
+        "description": "Nos prim\u00f3rdios da minha vida como ABAPer, uma s\u00e1bia mestra ABAPai (pra rimar com JEDI, sacou? \ud83d\ude44\u00a0\u00a0) me ensinou uma pequena t\u00e1tica para que voc\u00ea \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/12/07/abapzombie-guide-to-abap-parte-28-collect/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 28 \u2013 COLLECT"
+        ],
+        "description": "E c\u00e1 estou eu, continuando essa saga que n\u00e3o tem um post novo desde Agosto. Eu n\u00e3o desisti, e n\u00e3o desistirei jamais! \ud83d\ude08 Enfim, hoje \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/12/05/aprendendo-abap-conta-propria-8-passos/"
+        ],
+        "title": [
+            "Aprendendo ABAP Por Conta Pr\u00f3pria em 8 passos!"
+        ],
+        "description": "*** Atualiza\u00e7\u00e3o do futuro ( 02/10/2015) ***:\u00a0Ol\u00e1, tudo bem?\u00a0Desde sua publica\u00e7\u00e3o este guia j\u00e1 ajudou milhares de pessoas nos primeiros passos em suas carreiras com \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/12/01/novo-site/"
+        ],
+        "title": [
+            "Novo Site!"
+        ],
+        "description": "Pessoal, Comos voc\u00eas podem ver, estamos reformulando o site, deixando a interface mais limpa, ajustando o sistema de feedbacks e coment\u00e1rios, e melhorando a organiza\u00e7\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2011/11/23/sap-inside-track-sao-leopoldo-01122011/"
+        ],
+        "title": [
+            "SAP Inside Track S\u00e3o Leopoldo \u2013 01/12/2011"
+        ],
+        "description": "Antes mais nada, sabemos que o site est\u00e1 parado. \u00c9 por um bem maior, ACREDITEM! E l\u00e1 vamos n\u00f3s para mais um SAP Inside Track! \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2011/04/wakzombie.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/10/20/ex-zombies-felizes-100-mil-hits/"
+        ],
+        "title": [
+            "Ex-Zombies Felizes \u2013 100 mil hits!"
+        ],
+        "description": "Aeeeeeeeeeeeeeeeeeeeeeeeeee! Nosso humilde blog atingiu a marca de 100mil hits (contador do lado direito embaixo) desde seu surgimento em Dezembro de 2010! Antes de agradecer \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/10/07/zombie-attack-video-da-versao-beta/"
+        ],
+        "title": [
+            "Zombie Attack \u2013 V\u00eddeo da vers\u00e3o BETA"
+        ],
+        "description": "Eae zombizada! Seguinte! J\u00e1 que eu sei que nem todo mundo vai poder estar presente no SAP Inside Track S\u00e3o Paulo, resolvi lan\u00e7ar este post \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/10/05/steve-jobs-1955-2011/"
+        ],
+        "title": [
+            "Steve Jobs 1955 \u2013 2011"
+        ],
+        "description": "Pe\u00e7o licen\u00e7a aos leitores para um post diferente(e triste). Como editor de um blog sobre programa\u00e7\u00e3o e amante de tecnologia, acredito ter o dever de \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2011/09/28/preview-zumbis-invadindo-o-seu-ambiente/"
+        ],
+        "title": [
+            "Preview: Zumbis Invadindo o seu Ambiente"
+        ],
+        "description": "Descubra o que diabos \u00e9 isso acessando a p\u00e1gina do SAP Inside Track SP 2011\u00a0e olhando os \u201cDemo Pods\u201d do \u201cDemo Break\u201d. Aproveite e se \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/09/26/melhorias-no-blog-feedback-de-zumbis-para-zumbis/"
+        ],
+        "title": [
+            "Melhorias no Blog \u2013 Feedback de Zumbis para Zumbis"
+        ],
+        "description": "Galera, Nos \u00faltimos dias adicionamos v\u00e1rias melhorias ao blog, para que fique mais f\u00e1cil ler, comentar, compartilhar e dar sugest\u00f5es. Vou listar tudo que mudamos \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/09/23/funcao-or-not-funcao-a-pergunta-que-quase-nunca-e-feita/"
+        ],
+        "title": [
+            "Fun\u00e7\u00e3o or Not Fun\u00e7\u00e3o? A pergunta que quase nunca \u00e9 feita!"
+        ],
+        "description": "Uma constru\u00e7\u00e3o comum no mundo do ABAP: LOOP AT T_DADOS INTO LWA_DADOS. CALL FUNCTION \u2018BUSCA_INFORMACOES_ADICIONAIS\u2019 EXPORTING material = lwa_dados-material TABLES t_details = t_inf_aux. (\u2026) ENDLOOP. \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2011/09/19/zombie-news-1-sap-inside-track-blogs-da-scn-sapcastbrasil/"
+        ],
+        "title": [
+            "Zombie News! 1 \u2013 SAP Inside Track, Blogs da SCN, SAPCastBrasil"
+        ],
+        "description": "Demorei um pouco mas finalmente tirei do \u201cpapel\u201d a id\u00e9ia do Zombie News. Eu consumo bastante informa\u00e7\u00e3o sobre coisas do mundo SAP, e decidi fazer \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/09/02/permitase-un-momento-de-relax-top-pesquisas-escrotas-parte-3/"
+        ],
+        "title": [
+            "Permitase un Momento de Relax \u2013 Top Pesquisas Escrotas \u2013 Parte 3"
+        ],
+        "description": "Sim, ela est\u00e1 de volta! Eu apresento para voc\u00eas o Top Pesquisas Escrotas 3! Eu continuo ficando surpreso com a criatividade das pessoas. Para n\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2011/09/01/sapcastbrasil-nova-temporada-blogs-artigos-e-contribuicoes-em-portugues/"
+        ],
+        "title": [
+            "SAPCastBrasil \u2013 Nova Temporada \u2013 Blogs, Artigos e Contribui\u00e7\u00f5es em Portugu\u00eas"
+        ],
+        "description": "Agora \u00e9 oficial: Os zumbis invadiram o SAPCast \ud83d\ude42 Eu e o Mauro participamos do primeiro epis\u00f3dio da nova temporada do SAPCastBrasil, junto com a \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/09/01/hardcode-constantes-c_xs-e-derivados-abapzombie-guide-28-constants/"
+        ],
+        "title": [
+            "Hardcode, Constantes, C_Xs e derivados / ABAPZombie Guide 28 \u2013 CONSTANTS"
+        ],
+        "description": "Este post vai al\u00e9m de uma explica\u00e7\u00e3o de um comando\u2026 Voc\u00ea j\u00e1 viu alguma vez em algum c\u00f3digo fonte a seguinte declara\u00e7\u00e3o? REPORT zombie_constante_idiota. CONSTANTS: \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/08/31/abapzombie-guide-to-abap-parte-27-check/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 27 \u2013 CHECK"
+        ],
+        "description": "Bom, eu estou com um problema chato porque estou sem acesso ao meu ambiente Trial do Netweaver, fiz o favor de destruir a Virtual Machine \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2011/08/26/sapcast-brasil-novo-episodio-nova-parcerias-e-season-finale/"
+        ],
+        "title": [
+            "SAPCast Brasil \u2013 Novo Epis\u00f3dio \u2013 Nova Parcerias e Season Finale"
+        ],
+        "description": "O mundo dos podcasts n\u00e3o gira em torno do NerdCast e do RapaduraCast n\u00e3o \ud83d\ude1b Apresento \u00e0 voc\u00eas o SAPCast Brasil, editado pelo Marlo Simon \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2011/08/19/quer-criar-o-seu-proprio-artigo-sobre-sap-e-muito-mais-facil-do-que-parece/"
+        ],
+        "title": [
+            "Quer criar o seu pr\u00f3prio artigo sobre SAP? \u00c9 muito mais f\u00e1cil do que parece!"
+        ],
+        "description": "Muita gente j\u00e1 entrou em contato comigo falando que gostaria de criar seus pr\u00f3prios artigos ou ter o seu pr\u00f3prio blog para falar sobre SAP, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/08/18/usabilidade-em-programas-abap/"
+        ],
+        "title": [
+            "Usabilidade em programas ABAP"
+        ],
+        "description": "Este artigo foi feito originalmente para um blog no SDN:\u00a0http://www.sdn.sap.com/irj/scn/weblogs?blog=/pub/wlg/25976\u00a0Voc\u00ea comentar l\u00e1, comentar aqui, tanto faz \ud83d\ude00 Vamos come\u00e7ar este post analisando uma situa\u00e7\u00e3o \u201ccl\u00e1ssica\u201d \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/08/11/tratamento-de-erro-com-classe-de-excecao/"
+        ],
+        "title": [
+            "Tratamento de erro com classe de exce\u00e7\u00e3o"
+        ],
+        "description": "Erros?! Dump?! NNN\u00e3\u00e3\u00e3ooooooooo\u2026 \u201cAquele \u00e0 qual o programa nunca deu dump, que durrube o primeiro processo pela SM50\u201d :S Alguns dumps mostram uma tal de \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/08/09/encontro-de-blogs-brasileiros-de-sap/"
+        ],
+        "title": [
+            "Encontro de Blogs Brasileiros de SAP"
+        ],
+        "description": "Fala galera! Acabei de chegar em casa de um evento hist\u00f3rio (pelo menos para n\u00f3s! haha \ud83d\ude1b ): conseguimos, finalmente, juntar numa mesa de bar \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_mundo_sap.jpg",
+        "link": [
+            "https://www.abapzombie.com/mundo-sap/2011/08/05/certificacao-sap-o-que-anda-acontecendo-e-voce-provavelmente-nao-sabe/"
+        ],
+        "title": [
+            "Certifica\u00e7\u00e3o SAP \u2013 O que anda acontecendo e voc\u00ea (provavelmente) n\u00e3o sabe!"
+        ],
+        "description": "Pois \u00e9 caro leitor, hoje vamos tratar de um tema muito pol\u00eamico aqui no ABAP Zombie. N\u00e3o, n\u00e3o estou falando de mamilos (entenda essa piada \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/07/25/abapzombie-guide-to-abap-parte-26-clear/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 26 \u2013 CLEAR"
+        ],
+        "description": "Ah, o CLEAR. Que programador nunca ficou debuggando 5horas para descobrir que \u201cfaltava um CLEAR\u201d? Eu j\u00e1 \ud83d\ude41 Tristezas dignas do @ABAPdepressao \u00e0 parte, vamos \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/07/21/abapzombie-guide-to-abap-parte-25-call-selection-screen/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 25 \u2013 CALL SELECTION-SCREEN"
+        ],
+        "description": "Eu comentei no post do CALL SCREEN que ele quase de tudo em telas, menos chamar telas de sele\u00e7\u00e3o criadas via SELECTION-SCREEN em Reports. Pois \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/07/21/zumbis-na-newsletter-do-abap101/"
+        ],
+        "title": [
+            "Zumbis na Newsletter do ABAP101!"
+        ],
+        "description": "Pessoal, quem acompanha o blog sabe que n\u00f3s sempre linkamos artigos do blog abap101.com por aqui. Recentemente eles criaram uma Newsletter para divulgar artigos do \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/07/14/abapzombie-guide-to-abap-parte-24-call-screen/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 24 \u2013 CALL SCREEN"
+        ],
+        "description": "Ent\u00e3o vamos continuar com a saga maluca de catalogar todos os comandos do ABAP. Espero lembrar do primeiro quando chegar no \u00faltimo \ud83d\ude00 Hoje vamos \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/07/13/classe-de-persistencia/"
+        ],
+        "title": [
+            "Classe de Persist\u00eancia"
+        ],
+        "description": "Ceerrtttooo \u201cZombizada\u201d. Hoje eu acordei bem inspirado para fazer um\u00a0post sobre Classe de Persist\u00eancia, mas nem vou fazer =P Procurei algo no google sobre este \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/07/08/sequencia-de-teste-se37/"
+        ],
+        "title": [
+            "Sequ\u00eancia de teste SE37"
+        ],
+        "description": "Ceeeerto Zombizada animada!!! #Fail H\u00e1 uns dias atras um funcional aqui do projeto estava \u201ccabreiro\u201d (como diz meu velho). Ele queria fazer um teste de \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/07/08/ferramentas-abap-free-e-projetos-open-source-sim-eles-existem/"
+        ],
+        "title": [
+            "Ferramentas ABAP Free e Projetos Open Source \u2013 Sim, eles existem!"
+        ],
+        "description": "Quem aqui nunca se perguntou \u201cnossa, e se existisse uma ferramenta que fizesse a coisa X ou a coisa Y?\u201d, para ent\u00e3o, depois de alguns \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/07/01/novatos-no-mundo-sap-por-onde-comecar-guia-do-abap-noob/"
+        ],
+        "title": [
+            "Novatos no Mundo SAP \u2013 Por onde Come\u00e7ar? (Guia do ABAP Noob)"
+        ],
+        "description": "\u00a0 *** Atualiza\u00e7\u00e3o do futuro ( 02/10/2015) ***:\u00a0Ol\u00e1, tudo bem?\u00a0Desde sua publica\u00e7\u00e3o este guia j\u00e1 ajudou milhares de pessoas nos primeiros passos em suas carreiras \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/06/20/user-exit-nao-deixe-as-brechas-descontroladas-parte-2-smodcmod/"
+        ],
+        "title": [
+            "User-Exit \u2013 N\u00e3o deixe as brechas descontroladas \u2013 Parte 2 \u2013 SMOD/CMOD"
+        ],
+        "description": "Dando continuidade \u00e0 sequ\u00eancia de posts que come\u00e7ou aqui, hoje vamos desvendar mais uma maneira de colocar sua l\u00f3gica trava sistemas salva-vidas no meio do \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/06/17/permitase-un-momento-de-relax-abap-warrior/"
+        ],
+        "title": [
+            "Permitase un Momento de Relax \u2013 ABAP Warrior!"
+        ],
+        "description": "Lembrando para o povo esquentadinho que isso \u00e9 uma par\u00f3dia, com um intuito s\u00f3: divertir. Enviado pelo meu amigo \u201cRobson Pereira\u201d Abap Warrior a hist\u00f3ria \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_pi.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-pi/2011/06/14/pi-xi-qual-versao-do-java-devo-usar/"
+        ],
+        "title": [
+            "PI  / XI  \u2013 Qual vers\u00e3o do Java devo usar?"
+        ],
+        "description": "\u00a0 Se voc\u00ea trabalha com PI e j\u00e1 passou por clientes com vers\u00f5es diferentes da ferramenta, provavelmente voc\u00ea alguma vez j\u00e1 deve ter apanhando pra \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/05/17/abapzombie-guide-to-abap-parte-23-case/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 23 \u2013 CASE"
+        ],
+        "description": "Corre negada! A zumbizada est\u00e1 vontando! Estive um pouco ausente nas \u00faltimos semanas\u2026 mas estou de volta, e com v\u00e1rios outros posts para continuar ajudando \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/04/27/modelo-programas/"
+        ],
+        "title": [
+            "Padr\u00f5es de Projetos \u2013 Modelos de C\u00f3digos"
+        ],
+        "description": "Certo \u201cZombizada\u201d =D Para quem trabalha em consultoria e cada dia est\u00e1 em um cliente diferente, sempre tem aqueles padr\u00f5es de desenvolvimento, um cliente tem \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/04/24/o-tesouro-perdido-dos-consultores-zumbis/"
+        ],
+        "title": [
+            "O tesouro perdido dos Consultores Zumbis!"
+        ],
+        "description": "Faz umas 2 semanas que n\u00e3o temos posts novos aqui no ABAPZombie, pois os autores andam muito atarefados (NOT \ud83d\ude1b ). Em breve continuaremos nossas \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/04/08/permitase-un-momento-de-relax-top-pesquisas-escrotas-parte-2/"
+        ],
+        "title": [
+            "Permitase un Momento de Relax \u2013 Top Pesquisas Escrotas \u2013 Parte 2"
+        ],
+        "description": "Eu n\u00e3o acredito, mas n\u00e3o \u00e9 que ela voltou? A coluna \u201cPermitase un Momento de Relax\u201d traz para voc\u00ea o t\u00f3pico mais divertido de acordo \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2011/04/06/mistico-mundo-de-bsp-business-server-pages/"
+        ],
+        "title": [
+            "M\u00edstico mundo de BSP (Business Server Pages)"
+        ],
+        "description": "J\u00e1 ouvi dizer que as Tags do BSP s\u00e3o inventadas na hora, assim como estat\u00edsticas em conversas informais \ud83d\ude15 \u00a0 Calma, n\u00e3o\u00a0prevemos\u00a0p\u00e2nico, sem\u00a0anarquia\u2026 Bem semelhante \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/04/06/abapzombie-guide-to-abap-parte-22-call-method/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 22 \u2013 CALL METHOD"
+        ],
+        "description": "O CALL METHOD chama um m\u00e9todo de uma classe. D\u00e3r. Mas, caro amigo que n\u00e3o conhece OO, esse simples comando pode tornar-se ca\u00f3tico caso voc\u00ea \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/04/05/abapzombie-guide-to-abap-parte-21-call-dialog/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 21 \u2013 CALL DIALOG"
+        ],
+        "description": "Obs.: Esse comando \u00e9 obsoleto heim! Nos prim\u00f3rdios dos tempos, o homo-abapiens (nossa esp\u00e9cie) utilizava um comando chamado CALL DIALOG, para executar processos modularizados, ou \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/03/31/pontos-flutuantes-existe-solucao/"
+        ],
+        "title": [
+            "Pontos flutuantes, existe solu\u00e7\u00e3o"
+        ],
+        "description": "Existe c\u00e1lculo ap\u00f3s a VA01? oO Quem nunca ficou que nem um zombie fazendo milh\u00f5es de divis\u00f5es para\u00a0c\u00e1lculos nas exits da VA01, pois \u00e9, j\u00e1 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/03/25/permitase-un-momento-de-relax-abap-comments/"
+        ],
+        "title": [
+            "Permitase un Momento de Relax \u2013 ABAP Comments"
+        ],
+        "description": "Desde que voc\u00ea entrou no mundo do ABAP, voc\u00ea deve ter escutado falar sobre uma tal include maligna, que quer mandar dem\u00f4nios chor\u00f5es em cima \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/03/23/abapzombie-guide-to-abap-parte-20-call-customer-function/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 20 \u2013 CALL CUSTOMER-FUNCTION"
+        ],
+        "description": "O CALL CUSTOMER-FUNCTION \u00e9 um comando usado em diversos lugares do Standard para chamar fun\u00e7\u00f5es de user-exit definidas na transa\u00e7\u00e3o SMOD e ativadas pela transa\u00e7\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/03/21/abapzombie-guide-to-abap-parte-19-call-function/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 19 \u2013 CALL FUNCTION"
+        ],
+        "description": "CALL FUNCTION, comando usado em 10 de cada 6 programas em ABAP. O que ele faz? \u00c9 s\u00f3 colocar CALL FUNCTION no Google Translation (en \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/03/18/instalando-o-minisap-abap-em-casa/"
+        ],
+        "title": [
+            "Instalando o MiniSAP \u2013 ABAP em casa!"
+        ],
+        "description": "(Update 06/07/2015:\u00a0\u00a0***Aten\u00e7\u00e3o!*** Instalar o ABAP em\u00a0uma Virtual Machine \u00e9 coisa do passado, a moda agora \u00e9 usar a cloud pelado! \ud83d\ude44\u00a0Todo o conte\u00fado abaixo serve \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2011/03/17/coisinhas-importantes-do-crm/"
+        ],
+        "title": [
+            "Coisinhas importantes do CRM"
+        ],
+        "description": "Este post \u00e9 dedicado inteiramente ao meu amigo Z\u00e9 (Jos\u00e9 Marcelo). Creio que pelo menos uma vez por semana eu chamo o Z\u00e9 e pergunto \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/03/11/permitase-un-momento-de-relax-a-cultura-de-um-zumbi/"
+        ],
+        "title": [
+            "Permitase un Momento de Relax \u2013 A Cultura de um Zumbi"
+        ],
+        "description": "Sexta-Feira p\u00f3s Carnaval. T\u00e1 com pregui\u00e7a? \u00c9, eu sei que sim \ud83d\ude42 Mas enfim, vamos brindar nossas mentes com um Momento Liter\u00e1rio aqui no ABAP \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/03/10/abapzombie-guide-to-abap-parte-18-call-badi/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 18 \u2013 CALL BADI"
+        ],
+        "description": "Mais um comando do tipo \u201ceu fa\u00e7o o que t\u00e1 escrito\u201d, ou seja: O Call BADI faz a Chamada de uma BADI. Simples assim \ud83d\ude42 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/03/04/permitase-un-momento-de-relax-momento-abap-zen/"
+        ],
+        "title": [
+            "Permitase un Momento de Relax \u2013 Momento ABAP-Zen"
+        ],
+        "description": "Ah, o Carnaval! Momento de sossego, paz e tranquilidade. Encontrar a fam\u00edlia, curtir uma praia, um campo, as montanhas\u2026 O tempo \u00e9 ideal para fazer \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/03/02/e-learning-e-apostilas-vasculhando-o-sdn/"
+        ],
+        "title": [
+            "E-learning e Apostilas \u2013 Vasculhando o SDN"
+        ],
+        "description": "Que o SDN tem informa\u00e7\u00f5es todo mundo deveria saber sabe\u2026 Mas, infelizmente, \u00a0diversos consultores n\u00e3o tem no\u00e7\u00e3o do quanto est\u00e3o perdendo por deixar de pesquisar \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/03/02/abapzombie-guide-to-abap-parte-17-break-point/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 17 \u2013 BREAK-POINT"
+        ],
+        "description": "E l\u00e1 vamos n\u00f3s com esse comandinho criador do caos: o BREAK-POINT. Bom, este comando \u201cpara\u201d a aplica\u00e7\u00e3o e abre o Debug. Se for em \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/03/01/abapzombie-guide-to-abap-parte-16-back/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 16 \u2013 BACK"
+        ],
+        "description": "O comando BACK \u00e9 um comando utilizado em listas. Toda lista feita em WRITE \u00e9 escrita conforme os comandos WRITE v\u00e3o sendo executados, e o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/28/abapzombie-guide-to-abap-parte-15-at-user-command/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 15 \u2013 AT USER-COMMAND"
+        ],
+        "description": "Phew! Finalmente cheguei ao fim da letra A. Espero que eu termine tudo at\u00e9 o final do ano\u2026 ano de 2012 \u00e9 claro \ud83d\ude00 Bom, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/02/25/permitase-un-momento-de-relax-top-pesquisas-escrotas/"
+        ],
+        "title": [
+            "Permitase un Momento de Relax \u2013 Top Pesquisas Escrotas"
+        ],
+        "description": "Quando a gente criou o blog, o Mauro deu a id\u00e9ia mega master blaster de incorporarmos o Google Analytics no site, uma ferramenta destru\u00eddora que \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/24/abapzombie-guide-to-abap-parte-14-authority-check/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 14 \u2013 AUTHORITY-CHECK"
+        ],
+        "description": "E agora, o comando que voc\u00ea j\u00e1 xingou um dia (talvez at\u00e9 sem saber): o AUTHORITY-CHECK. E o que ele faz? Verifica autoriza\u00e7\u00f5es, d\u00e3r. \ud83d\ude44 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/23/user-exit-nao-deixe-as-brechas-descontroladas-parte-1-classicas/"
+        ],
+        "title": [
+            "User-Exit \u2013 N\u00e3o deixe as brechas descontroladas \u2013 Parte 1 \u2013 Cl\u00e1ssicas"
+        ],
+        "description": "Nova sequ\u00eancia de posts para acabar com suas d\u00favidas de User-Exits, e organizar em um s\u00f3 lugar tutoriais para User Exits de diversos tipos. Vamos \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2011/02/22/criando-link-para-o-crm_ui-web-client/"
+        ],
+        "title": [
+            "Criando link para o CRM_UI (Web Client)"
+        ],
+        "description": "Ja aconteceu comigo\u2026 Est\u00e1 acontecendo com a Pri\u2026 E porque n\u00e3o!? pode acontecer com voc\u00ea meu amigo\u2026 Estava em um projeto de CRM 6.0, equipe \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2011/02/22/relacionamento-bol/"
+        ],
+        "title": [
+            "Relacionamento BOL"
+        ],
+        "description": "Oi pessoas! Como o Mauricio disse no post em que me apresentou no blog, eu vou publicar algumas coisas referentes ao meu aprendizado nesse mundo \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/22/abapzombie-guide-to-abap-parte-13-at-selection-screen/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 13 \u2013 AT SELECTION-SCREEN"
+        ],
+        "description": "O AT SELECTION-SCREEN \u00e9 um evento que permite manipular a\u00e7\u00f5es do usu\u00e1rio e do sistema durante o processo de exibi\u00e7\u00e3o/altera\u00e7\u00e3o da tela de sele\u00e7\u00e3o de \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/02/18/permitase-un-momento-de-relax-identificando-o-consultor-zumbi/"
+        ],
+        "title": [
+            "Permitase un Momento de Relax \u2013 Identificando o Consultor Zumbi"
+        ],
+        "description": "Como identificar que o seu amigo Consultor tornou-se um zumbi? \u00c9 f\u00e1cil, \u00e9 s\u00f3 verificar os seguintes sintomas: Ele n\u00e3o chega de manh\u00e3 (n\u00e3o precisa, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/17/abapzombie-guide-to-abap-parte-12-at-line-selection/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 12 \u2013 AT LINE-SELECTION"
+        ],
+        "description": "O AT LINE-SELECTION \u00e9 um comando bem simples, para disparar um evento sempre que o sy-ucomm retornado de uma lista seja igual a PICK. Esse \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/16/abapzombie-guide-to-abap-parte-11-at-pfxx/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 11 \u2013 AT PFxx"
+        ],
+        "description": "Bom, o AT PFxx \u00e9 um daqueles comandos que a SAP n\u00e3o recomenda serem usados em programas, salvo para testes. O funcionamento \u00e9 bem simples, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/02/15/macros-e-os-comandos-que-nao-existem-ou-existem/"
+        ],
+        "title": [
+            "Macros e os comandos que n\u00e3o existem (ou existem?)."
+        ],
+        "description": "Antes de tudo, um fato que ainda assusta alguns ABAPers: voc\u00ea sabia que o comando \u201cbreak \u201c, n\u00e3o \u00e9 um COMANDO de verdade? Eu explico: \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/15/abapzombie-guide-to-abap-parte-10-at-new-first-last/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 10 \u2013 AT (NEW, FIRST, LAST)"
+        ],
+        "description": "O Comando AT (loops de tabelas internas) \u00e9 um comando divertido e \u00fatil em diversos casos. Ele pode ser colocado dentro de LOOPs, e ele \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/14/abapzombie-guide-to-abap-parte-9-assign-local-copy/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 9 \u2013 ASSIGN \u2013 LOCAL COPY"
+        ],
+        "description": "* Aten\u00e7\u00e3o, este comando \u00e9 obsoleto na vers\u00e3o 6.0! Bom, mais um comando obsoleto nas vers\u00f5es mais novas. O ASSIGN LOCAL-COPY funciona de maneira similar \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/02/11/permita-se-um-momento-de-relax-news/"
+        ],
+        "title": [
+            "Permitase un Momento de Relax \u2013 News!"
+        ],
+        "description": "Agora, vamos tentar postar de vez em quando posts da saga \u201cPermitase un momento do relax\u201d, para incentivar voc\u00ea a dar uma relaxada e ler \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/10/abapzombie-guide-to-abap-parte-8-field-symbols/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 8 \u2013 FIELD-SYMBOLS"
+        ],
+        "description": "O commando FIELD-SYMBOLS \u00e9 usada para declarar uma refer\u00eancia \u00e0 uma \u00e1rea de mem\u00f3ria. A declara\u00e7\u00e3o dessas ref\u00eancia pode ou n\u00e3o ter um tipo definido. \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/10/abapzombie-guide-to-abap-parte-7-assign/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 7 \u2013 ASSIGN"
+        ],
+        "description": "ASSIGN! D\u00e1 pra falar bastante coisa desse comando que \u00e9 uma m\u00e3o na roda para qualquer programador. * Aten\u00e7\u00e3o, este \u00e9 um post longo porque \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/09/abapzombie-guide-to-abap-parte-6-assert/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 6 \u2013 ASSERT"
+        ],
+        "description": "Ta\u00ed um comando que pode ajudar muito o seu trabalho. Sabe quando voc\u00ea tem aquele processo chato que s\u00f3 roda em BACKGROUND, ou em UPDATE \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/08/abapzombie-guide-to-abap-parte-5-append/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 5 \u2013 APPEND"
+        ],
+        "description": "O APPEND, este velho conhecido dos programadores. Todos os programadores ABAP j\u00e1 deram APPEND em alguma tabela alguma vez na vida. Se voc\u00ea ainda n\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_pi.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-pi/2011/02/07/nota-fiscal-eletronica-nfe-upgrade-sem-segredos/"
+        ],
+        "title": [
+            "Nota Fiscal Eletr\u00f4nica (NFe) \u2013 Upgrade sem segredos"
+        ],
+        "description": "Ent\u00e3o voc\u00ea \u00e9 daqueles que v\u00ea \u201caquele\u201d e-mail com a sua nova aloca\u00e7\u00e3o e pensa: \u201cFerrou! N\u00e3o sei nada de NFe, muito menos do upgrade \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/07/abapzombie-guide-to-abap-%e2%80%93-parte-4-%e2%80%93-aliases/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 4 \u2013 ALIASES"
+        ],
+        "description": "Como um cara que curte OO, eu curto bastante esse comando. \ud83d\ude42 ALIASES pode ser entendido como uma abrevia\u00e7\u00e3o do nome de um m\u00e9todo de \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/04/abapzombie-guide-to-abap-parte-3-add-then-until/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 3 \u2013 ADD \u2013 THEN, UNTIL"
+        ],
+        "description": "* Aten\u00e7\u00e3o, este comando \u00e9 obsoleto na vers\u00e30 6.0! Esse \u00e9 um comando interessante, apesar de obsoleto. Pense numa work area que tem diversos campos \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/02/03/abapzombie-guide-to-abap-%e2%80%93-parte-2-%e2%80%93-add-corresponding/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 2 \u2013 ADD-CORRESPONDING"
+        ],
+        "description": "* Aten\u00e7\u00e3o, este comando \u00e9 obsoleto na vers\u00e30 6.0! Muita gente conhece o MOVE-CORRESPONDING, mas pouca gente sabe que existe um comando similiar, o ADD-CORRESPONDING. \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/02/02/desvendando-o-gato-do-alv-veja-como-funciona/"
+        ],
+        "title": [
+            "Desvendando o Gato do ALV \u2013 Veja como Funciona!"
+        ],
+        "description": "O meu grande amigo Mauro, sabiamente, mostrou no post de ontem como funciona o \u201cGato do ALV\u201d com\u00a0o c\u00f3digo de game para mostrar um relat\u00f3rio \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/01/31/gato-no-alv/"
+        ],
+        "title": [
+            "Gato no ALV \u2013 C\u00f3digo Ninja para ver Erros"
+        ],
+        "description": "Tem um \u201cgato\u201d no SAP que mostra alguns erros do ALV, e o esquema \u00e9 quase um c\u00f3digo de game. \u2013 Clique na tela do \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/01/31/perdeu-preiboi-agora-e-oo-parte-i/"
+        ],
+        "title": [
+            "Perdeu preiboi, agora \u00e9 OO \u2013 Parte I"
+        ],
+        "description": "\u201cIndigna\u00e7\u00e3o.. caos\u2026 medo\u2026 pavor\u2026. HAAAAAAAAA\u2026.\u201d Sei l\u00e1 porque, mas essas s\u00e3o as palavras que aparecem no rosto de uma galera quando falamos de Orienta\u00e7\u00e3o \u00e0 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/01/31/abapzombie-guide-to-abap-parte-1-add-2/"
+        ],
+        "title": [
+            "ABAPZombie Guide to ABAP \u2013 Parte 1 \u2013 ADD"
+        ],
+        "description": "Vamos l\u00e1, um comando bem simples, o ADD. Esse \u00e9 um daqueles famosos comandos que n\u00e3o precisam de explica\u00e7\u00e3o\u2026 Sint\u00e1xe: ADD val1 TO val2. Val1 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/01/27/novo-abap-debugger-%e2%80%93-porque-largar-o-velho-%e2%80%93-parte-3/"
+        ],
+        "title": [
+            "Novo ABAP Debugger \u2013 Porque largar o velho? \u2013 Parte 3"
+        ],
+        "description": "Eu, como um Abap Objects-addicted, n\u00e3o poderia deixar de fora essa parte do Debugger Novo que vou explicar hoje. O novo\u00a0visualizador de objetos \u00e9 uma \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/01/26/novo-abap-debugger-%e2%80%93-porque-largar-o-velho-%e2%80%93-parte-2/"
+        ],
+        "title": [
+            "Novo ABAP Debugger \u2013 Porque largar o velho? \u2013 Parte 2"
+        ],
+        "description": "Continuando minha saga para desvendar o Debugger Novo, vamos dar uma olhada agora em algumas ferramentas \u201cdivertidas\u201d que a SAP implantou. Essas daqui s\u00e3o daquelas \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap2.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/01/26/conversao-de-variaveis-%e2%80%93-hoo-trocinho-chato/"
+        ],
+        "title": [
+            "Convers\u00e3o de vari\u00e1veis \u2013 Hoo trocinho chato!!!"
+        ],
+        "description": "Quem nunca precisou fazer convers\u00e3o de dados no SAP? Acho que s\u00f3 quem nunca mexeu com SAP mesmo. :S E muito chato!! Exemplo: O cabra \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_off_topic.jpg",
+        "link": [
+            "https://www.abapzombie.com/off-topic/2011/01/25/refresh-no-inicio-de-reports-a-sindrome-do-robo/"
+        ],
+        "title": [
+            "REFRESH no in\u00edcio de REPORTs \u2013  A s\u00edndrome do Rob\u00f4"
+        ],
+        "description": "Olha s\u00f3\u2026 E n\u00e3o que eu encontrei DENOVO esse perform f_inicializa_vari\u00e1veis no come\u00e7o de um report simples? O report s\u00f3 faz o seguinte: Seleciona dados, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/01/24/importando-classes-locais-para-globais-na-se24/"
+        ],
+        "title": [
+            "Importando classes locais para globais na SE24!"
+        ],
+        "description": "Ent\u00e3o voc\u00ea olha para essas classes que n\u00f3s estamos compartilhando em includes e pensa \u201cclasses locais? heim? n\u00e3o \u00e9 mais f\u00e1cil na se24? eu tenho \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/01/21/codigos-pequenos-e-uteis-parte-2-caracteres-especiais/"
+        ],
+        "title": [
+            "C\u00f3digos pequenos\u2026 e \u00fateis! \u2013 Parte 2 \u2013 Caracteres Especiais"
+        ],
+        "description": "Continuando a nossa saga para resolver problemas simples, chatos e que n\u00e3o aguentamos mais resolver, trago hoje um c\u00f3digo simples e que eu j\u00e1 devo \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/01/20/codigos-pequenos-e-uteis-parte-1-tvarv/"
+        ],
+        "title": [
+            "C\u00f3digos pequenos\u2026 e \u00fateis! \u2013 Parte 1 \u2013  TVARV"
+        ],
+        "description": "\u00c9 galera! Eu e o Mauro estamos um pouco ausentes porque estamos preparando uma sequ\u00eancia de posts bem interessantes \ud83d\ude42 . C\u00f3digos simples e \u00fateis \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/01/17/transport-requests-dicas-simples-de-utilizacao/"
+        ],
+        "title": [
+            "Transport Requests \u2013 Dicas simples de utiliza\u00e7\u00e3o"
+        ],
+        "description": "\u00c9 pessoal! O SAP tem essa \u201cmaravilha da nova era\u201d que se chama Transport Requests. \u00a0Sejamos sinceros: o neg\u00f3cio \u00e9 legal, e funciona bem para \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/01/14/novo-abap-debugger-porque-largar-o-velho-parte-1/"
+        ],
+        "title": [
+            "Novo ABAP Debugger \u2013 Porque largar o velho? \u2013 Parte 1"
+        ],
+        "description": "Porque largar o debugger cl\u00e1ssico? Eu tamb\u00e9m fazia esta pergunta quando trabalhei na 6.0 pela primeira vez. Depois de um tempo, dei uma chance para \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_abap.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/01/13/validacoes-simples-em-sm30-eventos/"
+        ],
+        "title": [
+            "Valida\u00e7\u00f5es simples em SM30 \u2013 Eventos"
+        ],
+        "description": "Esses dias eu expliquei para uma pessoa um \u201cesquema\u201d que poderia salvar a vida de muitas pessoas\u2026 mas s\u00f3 elas conhecessem esse \u201cesquema\u201d. Pergunta do \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2011/01/12/mensagens-no-crm-com-bol/"
+        ],
+        "title": [
+            "Mensagens no CRM com BOL"
+        ],
+        "description": "VIVA OO !!! O CRM fica ate chato por causa da Orienta\u00e7\u00e3o a Objetos. Ainda n\u00e3o sei como tem gente que tem \u201cmedo\u201d disso. Reutiliza\u00e7\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_pi.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-pi/2011/01/12/soap-ui-testes-e-validacoes-em-webservices-sem-segredos/"
+        ],
+        "title": [
+            "SOAP UI \u2013 Testes e Valida\u00e7\u00f5es em Webservices sem segredos"
+        ],
+        "description": "Tem um fato que sempre ocorre alguma vez na vida de um Consultor PI (ou ABAP, ou CRM, ou whatever) que \u00e9, ao mesmo tempo, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_pi.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-pi/2011/01/10/pi-perguntas-frequentes-faq/"
+        ],
+        "title": [
+            "PI \u2013 Perguntas Frequentes (FAQ)"
+        ],
+        "description": "Vamos l\u00e1, primeiro post da parte PI do blog! E quem j\u00e1 mexeu com PI sabe\u2026 cada Adapter tem suas particularidades e configura\u00e7\u00f5es, que n\u00e3o \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_dicas_crm.png",
+        "link": [
+            "https://www.abapzombie.com/dicas-crm/2011/01/10/alert-modeler-crm/"
+        ],
+        "title": [
+            "Alert Modeler \u2013 CRM"
+        ],
+        "description": "Ate enfim.. meu primeiro post junto com primeiro post de CRM do blog =D ENNTTT\u00c3\u00c3OO Let\u00b4s GO Negads\u2026 Nas vers\u00f5es vers\u00f5es 2007 (6.0) e 2009 \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/guias/2011/01/04/tela-de-selecao-turbinada-parte-5-parafernalias-para-sua-tela/"
+        ],
+        "title": [
+            "Tela de Sele\u00e7\u00e3o Turbinada \u2013 Parte 5 \u2013 Parafern\u00e1lias para sua Tela"
+        ],
+        "description": "Agora que eu j\u00e1 expliquei com mais detalhes algumas partes mais trabalhosas para deixar sua tela de sele\u00e7\u00e3o mais, ahm, divertida ( \ud83d\ude1b ), vou \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2011/01/03/tela-de-selecao-turbinada-parte-4-novas-telas/"
+        ],
+        "title": [
+            "Tela de Sele\u00e7\u00e3o Turbinada \u2013 Parte 4 \u2013 Novas Telas!"
+        ],
+        "description": "Feliz 2011! Ano novo, vida nova, post novo! Continuando a sequ\u00eancia de posts da tela de sele\u00e7\u00e3o, vamos agora criar novas telas de sele\u00e7\u00e3o dentro \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2010/12/28/tela-de-selecao-turbinada-parte-3-esconder-elementos/"
+        ],
+        "title": [
+            "Tela de Sele\u00e7\u00e3o Turbinada \u2013 Parte 3 \u2013 Esconder Elementos"
+        ],
+        "description": "Essa dica \u00e9 mais para aquele Consultor que curte uma tela bonita. Eu sei que muita gente acha que o correto \u00e9 simplesmente \u201cfazer funcionar\u201d, \u2026 "
+    },
+    {
+        "thumb": "https://www.abapzombie.com/wp-content/uploads/2013/06/categoria_guias.jpg",
+        "link": [
+            "https://www.abapzombie.com/dicas-abap/2010/12/22/tela-de-selecao-turbinada-parte-2-tabstrip/"
+        ],
+        "title": [
+            "Tela de Sele\u00e7\u00e3o Turbinada \u2013 Parte 2 \u2013 Tabstrip"
+        ],
+        "description": "Eu sempre achei que tabstrips eram chatos de montar em programas online\u2026 mas ao mesmo tempo eu sempre achei que tabstrips ficavam muito bacanas nos \u2026 "
+    }
 ]
